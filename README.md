@@ -1,6 +1,6 @@
 # The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction Analysis
 
-**Replication code and data for Article 3 of the PhD research programme**
+**Replication code and data for Article 3, The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight, of the PhD research programme**
 
 Robert J. Green | [rjgreenresearch.org](https://www.rjgreenresearch.org) | ORCID: [0009-0002-9097-1021](https://orcid.org/0009-0002-9097-1021)
 
