@@ -1,9 +1,11 @@
 
-USDA AFIDA Detailed Data for foreign holdings of U.S. agricultural land:
-https://www.fsa.usda.gov/resources/economic-policy-analysis/afida/annual-reports-underlying-data
+### Required Input Data
 
-NOAA U.S Counties centroids by FIPS codes: 
-https://www.weather.gov/gis/Counties
+Place the following files in `data/inputs/`:
 
-HIFLD OPEN Military Installations, Ranges, and Training Areas (MIRTA) DoD Sites - Boundaries
-https://www.datalumos.org
+| File | Source | URL |
+|------|--------|-----|
+| `AFIDACurrentHoldingsYR2024.xlsx` | USDA Farm Service Agency | [fsa.usda.gov](https://www.fsa.usda.gov/programs-and-services/economic-and-policy-analysis/afida/index) |
+| `afida_current_holdings_yr2018.xlsx` through `yr2023.xlsx` | USDA FSA (same page) | Annual files for DiD panel |
+| `c_16ap26.zip` | NOAA Geographic Reference | County centroids shapefile | https://www.weather.gov/gis/Counties
+| `mirta-dod-sites-boundaries-geojson.geojson` | DataLumos Project 239602 | [datalumos.org](https://www.datalumos.org/datalumos/project/239602/version/V1/view) |
