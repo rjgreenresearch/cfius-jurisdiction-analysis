@@ -1,0 +1,358 @@
+state,year,total_holdings,total_acres,chinese_holdings,chinese_acres,has_restriction,treatment_year,provision_type,target_scope
+Alabama,2018,648,1684621.1,0,0.0,0,2023,restriction,adversarial_nations
+Alaska,2018,15,270401.0,0,0.0,0,,,
+Arizona,2018,312,303062.8,52,9892.0,0,2025,restriction,adversarial_nations
+Arkansas,2018,605,1126062.1,1,20.0,0,2023,ban,adversarial_nations
+California,2018,1698,1205880.6,70,6930.8,0,,,
+Colorado,2018,829,1126963.4,1,3871.4,0,,,
+Connecticut,2018,27,1867.2,0,0.0,0,,,
+Delaware,2018,12,4848.0,0,0.0,0,,,
+Florida,2018,1438,1321669.6,9,13847.5,0,2023,ban,adversarial_nations
+Georgia,2018,1195,1095396.3,7,1972.0,0,2024,restriction,adversarial_nations
+Hawaii,2018,126,171105.1,6,489.0,0,,,
+Idaho,2018,99,122573.0,0,0.0,0,2023,ban,adversarial_nations
+Illinois,2018,1521,578444.9,2,107.9,0,,,
+Indiana,2018,731,307819.9,3,618.0,0,2022,restriction,adversarial_nations
+Iowa,2018,1373,398089.7,0,0.0,0,2024,restriction,adversarial_nations
+Kansas,2018,1546,791647.8,1,0.5,1,2000,restriction,all_foreign
+Kentucky,2018,313,76921.2,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2018,360,1414045.7,0,0.0,0,2023,restriction,adversarial_nations
+Maine,2018,417,3314617.5,1,97.5,0,,,
+Maryland,2018,189,53970.7,6,2139.0,0,,,
+Massachusetts,2018,16,4845.0,0,0.0,0,,,
+Michigan,2018,748,1321104.0,0,0.0,0,,,
+Minnesota,2018,701,448350.8,0,0.0,1,2000,restriction,all_foreign
+Mississippi,2018,341,676296.7,1,88.0,0,2024,restriction,adversarial_nations
+Missouri,2018,770,324728.1,12,42875.6,1,2000,restriction,all_foreign
+Montana,2018,273,709038.2,0,0.0,0,2023,restriction,adversarial_nations
+Nebraska,2018,413,164460.0,0,0.0,0,2024,restriction,adversarial_nations
+Nevada,2018,60,508431.6,0,0.0,0,,,
+New Hampshire,2018,37,16905.0,0,0.0,0,,,
+New Jersey,2018,70,21452.0,1,20.0,0,,,
+New Mexico,2018,219,1058491.4,0,0.0,0,,,
+New York,2018,768,556173.4,0,0.0,0,,,
+North Carolina,2018,467,519543.7,28,49252.5,0,,,
+North Dakota,2018,397,219242.4,0,0.0,0,2023,restriction,adversarial_nations
+Ohio,2018,756,447825.5,5,334.0,0,2023,restriction,adversarial_nations
+Oklahoma,2018,1825,702418.9,3,2571.2,0,2023,restriction,adversarial_nations
+Oregon,2018,338,1068148.2,4,197.0,0,,,
+Pennsylvania,2018,264,311348.0,2,680.0,0,,,
+Puerto Rico,2018,11,2945.0,0,0.0,0,,,
+Rhode Island,2018,1,17.0,0,0.0,0,,,
+South Carolina,2018,359,493352.5,4,909.5,0,,,
+South Dakota,2018,129,131579.7,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2018,326,374669.9,0,0.0,0,2023,restriction,adversarial_nations
+Texas,2018,3279,3990469.7,95,55793.8,0,2025,restriction,adversarial_nations
+Utah,2018,61,124629.6,4,34006.7,0,2023,restriction,adversarial_nations
+Vermont,2018,572,85470.1,0,0.0,0,,,
+Virginia,2018,514,237584.5,8,13890.1,0,2023,restriction,adversarial_nations
+Washington,2018,1046,1513453.9,17,6461.0,0,,,
+West Virginia,2018,74,250261.2,1,41.2,0,,,
+Wisconsin,2018,424,479794.3,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2018,140,401309.7,0,0.0,0,,,
+Alabama,2019,678,1784279.6,0,0.0,0,2023,restriction,adversarial_nations
+Alaska,2019,15,270401.0,0,0.0,0,,,
+Arizona,2019,313,319167.8,52,9892.0,0,2025,restriction,adversarial_nations
+Arkansas,2019,609,1131502.0,1,20.0,0,2023,ban,adversarial_nations
+California,2019,1707,1213642.4,70,6930.8,0,,,
+Colorado,2019,1046,1497077.9,1,3871.4,0,,,
+Connecticut,2019,28,2040.8,0,0.0,0,,,
+Delaware,2019,12,4848.0,0,0.0,0,,,
+Florida,2019,1439,1321709.6,9,13847.5,0,2023,ban,adversarial_nations
+Georgia,2019,1224,1112447.1,7,1972.0,0,2024,restriction,adversarial_nations
+Hawaii,2019,127,171108.1,6,489.0,0,,,
+Idaho,2019,100,122573.0,0,0.0,0,2023,ban,adversarial_nations
+Illinois,2019,1825,648310.5,2,107.9,0,,,
+Indiana,2019,790,345361.1,3,618.0,0,2022,restriction,adversarial_nations
+Iowa,2019,1269,390813.8,0,0.0,0,2024,restriction,adversarial_nations
+Kansas,2019,1868,942721.6,1,0.5,1,2000,restriction,all_foreign
+Kentucky,2019,325,84448.1,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2019,377,1423770.9,0,0.0,0,2023,restriction,adversarial_nations
+Maine,2019,429,3404163.7,1,97.5,0,,,
+Maryland,2019,190,54012.7,6,2139.0,0,,,
+Massachusetts,2019,16,4845.0,0,0.0,0,,,
+Michigan,2019,834,1348948.2,0,0.0,0,,,
+Minnesota,2019,813,528872.4,0,0.0,1,2000,restriction,all_foreign
+Mississippi,2019,355,739772.7,1,88.0,0,2024,restriction,adversarial_nations
+Missouri,2019,851,350233.1,12,42875.6,1,2000,restriction,all_foreign
+Montana,2019,310,811534.2,0,0.0,0,2023,restriction,adversarial_nations
+Nebraska,2019,1195,522249.5,0,0.0,0,2024,restriction,adversarial_nations
+Nevada,2019,60,508431.6,0,0.0,0,,,
+New Hampshire,2019,37,16905.0,0,0.0,0,,,
+New Jersey,2019,70,21452.0,1,20.0,0,,,
+New Mexico,2019,340,1186908.1,0,0.0,0,,,
+New York,2019,1404,689801.6,0,0.0,0,,,
+North Carolina,2019,479,523006.5,28,49252.5,0,,,
+North Dakota,2019,518,308558.7,0,0.0,0,2023,restriction,adversarial_nations
+Ohio,2019,1031,495555.4,5,334.0,0,2023,restriction,adversarial_nations
+Oklahoma,2019,2574,1147442.4,3,2571.2,0,2023,restriction,adversarial_nations
+Oregon,2019,351,1219403.6,4,197.0,0,,,
+Pennsylvania,2019,288,336504.7,2,680.0,0,,,
+Puerto Rico,2019,11,2945.0,0,0.0,0,,,
+Rhode Island,2019,1,17.0,0,0.0,0,,,
+South Carolina,2019,369,500923.4,4,909.5,0,,,
+South Dakota,2019,610,306963.8,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2019,347,428994.9,0,0.0,0,2023,restriction,adversarial_nations
+Texas,2019,3976,4516498.0,96,55846.0,0,2025,restriction,adversarial_nations
+Utah,2019,73,126919.4,4,34006.7,0,2023,restriction,adversarial_nations
+Vermont,2019,572,85470.1,0,0.0,0,,,
+Virginia,2019,532,240351.3,8,13890.1,0,2023,restriction,adversarial_nations
+Washington,2019,1063,1528940.8,17,6461.0,0,,,
+West Virginia,2019,74,250261.2,1,41.2,0,,,
+Wisconsin,2019,485,490934.7,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2019,140,401309.7,0,0.0,0,,,
+Alabama,2020,722,1809173.4,0,0.0,0,2023,restriction,adversarial_nations
+Alaska,2020,15,270401.0,0,0.0,0,,,
+Arizona,2020,314,321383.4,52,9892.0,0,2025,restriction,adversarial_nations
+Arkansas,2020,636,1158543.9,1,20.0,0,2023,ban,adversarial_nations
+California,2020,1733,1253818.0,70,6930.8,0,,,
+Colorado,2020,1265,1783096.1,1,3871.4,0,,,
+Connecticut,2020,28,2040.8,0,0.0,0,,,
+Delaware,2020,12,4848.0,0,0.0,0,,,
+Florida,2020,1454,1327748.0,9,13847.5,0,2023,ban,adversarial_nations
+Georgia,2020,1264,1142560.5,7,1972.0,0,2024,restriction,adversarial_nations
+Hawaii,2020,127,171108.1,6,489.0,0,,,
+Idaho,2020,111,124678.5,0,0.0,0,2023,ban,adversarial_nations
+Illinois,2020,2490,813810.0,2,107.9,0,,,
+Indiana,2020,1070,423384.8,3,618.0,0,2022,restriction,adversarial_nations
+Iowa,2020,2075,554028.2,0,0.0,0,2024,restriction,adversarial_nations
+Kansas,2020,2408,1122549.8,1,0.5,1,2000,restriction,all_foreign
+Kentucky,2020,371,95322.7,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2020,423,1438806.7,0,0.0,0,2023,restriction,adversarial_nations
+Maine,2020,432,3519099.1,1,97.5,0,,,
+Maryland,2020,205,57665.1,6,2139.0,0,,,
+Massachusetts,2020,17,5029.0,0,0.0,0,,,
+Michigan,2020,931,1369609.4,0,0.0,0,,,
+Minnesota,2020,919,543911.3,0,0.0,1,2000,restriction,all_foreign
+Mississippi,2020,379,747266.9,1,88.0,0,2024,restriction,adversarial_nations
+Missouri,2020,1047,398460.5,12,42875.6,1,2000,restriction,all_foreign
+Montana,2020,323,854595.8,0,0.0,0,2023,restriction,adversarial_nations
+Nebraska,2020,1729,695334.4,0,0.0,0,2024,restriction,adversarial_nations
+Nevada,2020,62,510996.7,0,0.0,0,,,
+New Hampshire,2020,36,13760.0,0,0.0,0,,,
+New Jersey,2020,70,21452.0,1,20.0,0,,,
+New Mexico,2020,352,1236159.3,0,0.0,0,,,
+New York,2020,1653,749526.9,0,0.0,0,,,
+North Carolina,2020,490,533916.1,28,49252.5,0,,,
+North Dakota,2020,543,320480.3,0,0.0,0,2023,restriction,adversarial_nations
+Ohio,2020,1147,519331.8,5,334.0,0,2023,restriction,adversarial_nations
+Oklahoma,2020,3742,1531464.2,3,2571.2,0,2023,restriction,adversarial_nations
+Oregon,2020,374,1171472.7,4,197.0,0,,,
+Pennsylvania,2020,301,345930.8,2,680.0,0,,,
+Puerto Rico,2020,11,2945.0,0,0.0,0,,,
+Rhode Island,2020,1,17.0,0,0.0,0,,,
+South Carolina,2020,380,503623.9,4,909.5,0,,,
+South Dakota,2020,652,356942.4,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2020,371,434267.6,0,0.0,0,2023,restriction,adversarial_nations
+Texas,2020,4354,4806688.9,104,160717.1,0,2025,restriction,adversarial_nations
+Utah,2020,85,135460.8,4,34006.7,0,2023,restriction,adversarial_nations
+Vermont,2020,572,85470.1,0,0.0,0,,,
+Virginia,2020,553,258140.1,8,13890.1,0,2023,restriction,adversarial_nations
+Washington,2020,1186,1577468.0,17,6461.0,0,,,
+West Virginia,2020,76,253875.2,1,41.2,0,,,
+Wisconsin,2020,658,516797.8,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2020,154,431574.4,0,0.0,0,,,
+Alabama,2021,748,1842532.1,0,0.0,0,2023,restriction,adversarial_nations
+Alaska,2021,15,270401.0,0,0.0,0,,,
+Arizona,2021,316,332153.7,52,9892.0,0,2025,restriction,adversarial_nations
+Arkansas,2021,699,1413774.3,1,20.0,0,2023,ban,adversarial_nations
+California,2021,1777,1285826.6,72,7011.7,0,,,
+Colorado,2021,1396,1933630.9,1,3871.4,0,,,
+Connecticut,2021,28,2040.8,0,0.0,0,,,
+Delaware,2021,14,5395.0,0,0.0,0,,,
+Florida,2021,1486,1439930.6,9,13847.5,0,2023,ban,adversarial_nations
+Georgia,2021,1301,1215287.7,7,1972.0,0,2024,restriction,adversarial_nations
+Hawaii,2021,127,170556.3,6,489.0,0,,,
+Idaho,2021,120,127352.1,0,0.0,0,2023,ban,adversarial_nations
+Illinois,2021,2854,868844.6,6,527.9,0,,,
+Indiana,2021,1217,455595.7,3,618.0,0,2022,restriction,adversarial_nations
+Iowa,2021,1797,512383.5,0,0.0,0,2024,restriction,adversarial_nations
+Kansas,2021,2544,1187690.8,1,0.5,1,2000,restriction,all_foreign
+Kentucky,2021,425,111826.6,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2021,434,1441600.0,0,0.0,0,2023,restriction,adversarial_nations
+Maine,2021,435,3631490.9,1,97.5,0,,,
+Maryland,2021,221,59627.7,6,2139.0,0,,,
+Massachusetts,2021,17,5029.0,0,0.0,0,,,
+Michigan,2021,955,1394682.7,0,0.0,0,,,
+Minnesota,2021,983,577530.2,0,0.0,1,2000,restriction,all_foreign
+Mississippi,2021,415,777175.5,1,88.0,0,2024,restriction,adversarial_nations
+Missouri,2021,1200,438190.0,13,43070.6,1,2000,restriction,all_foreign
+Montana,2021,339,931179.6,0,0.0,0,2023,restriction,adversarial_nations
+Nebraska,2021,1992,795838.7,1,19.0,0,2024,restriction,adversarial_nations
+Nevada,2021,64,513981.7,0,0.0,0,,,
+New Hampshire,2021,37,13784.0,0,0.0,0,,,
+New Jersey,2021,74,22388.0,1,20.0,0,,,
+New Mexico,2021,375,1273592.4,0,0.0,0,,,
+New York,2021,1670,768726.5,0,0.0,0,,,
+North Carolina,2021,597,789907.6,28,49050.3,0,,,
+North Dakota,2021,634,356490.7,0,0.0,0,2023,restriction,adversarial_nations
+Ohio,2021,1215,543813.5,5,334.0,0,2023,restriction,adversarial_nations
+Oklahoma,2021,3998,1672933.0,3,2571.2,0,2023,restriction,adversarial_nations
+Oregon,2021,384,1216329.1,4,197.0,0,,,
+Pennsylvania,2021,348,353824.4,2,680.0,0,,,
+Puerto Rico,2021,12,3095.0,0,0.0,0,,,
+Rhode Island,2021,1,17.0,0,0.0,0,,,
+South Carolina,2021,398,517153.8,4,909.5,0,,,
+South Dakota,2021,697,382848.9,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2021,387,457441.2,0,0.0,0,2023,restriction,adversarial_nations
+Texas,2021,4582,5389643.4,109,219492.6,0,2025,restriction,adversarial_nations
+Utah,2021,85,125235.1,4,34006.7,0,2023,restriction,adversarial_nations
+Vermont,2021,572,85470.1,0,0.0,0,,,
+Virginia,2021,560,259493.1,8,13890.1,0,2023,restriction,adversarial_nations
+Washington,2021,1243,1593559.0,18,6541.0,0,,,
+West Virginia,2021,86,292888.2,1,41.2,0,,,
+Wisconsin,2021,716,551312.7,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2021,154,431574.4,0,0.0,0,,,
+Alabama,2022,901,2368342.7,0,0.0,0,2023,restriction,adversarial_nations
+Alaska,2022,15,270401.0,0,0.0,0,,,
+Arizona,2022,303,342926.5,1,322.0,0,2025,restriction,adversarial_nations
+Arkansas,2022,713,1414086.2,2,180.0,0,2023,ban,adversarial_nations
+California,2022,1830,1449762.2,72,7069.0,0,,,
+Colorado,2022,1834,2475546.3,4,4339.5,0,,,
+Connecticut,2022,28,2040.8,0,0.0,0,,,
+Delaware,2022,14,5395.0,0,0.0,0,,,
+Florida,2022,1488,1523361.4,9,12672.5,0,2023,ban,adversarial_nations
+Georgia,2022,1356,1278454.0,6,1786.0,0,2024,restriction,adversarial_nations
+Hawaii,2022,137,212376.1,6,489.0,0,,,
+Idaho,2022,124,127977.1,0,0.0,0,2023,ban,adversarial_nations
+Illinois,2022,2983,813067.8,6,597.8,0,,,
+Indiana,2022,1186,460425.3,4,813.0,1,2022,restriction,adversarial_nations
+Iowa,2022,1690,491382.4,2,562.0,0,2024,restriction,adversarial_nations
+Kansas,2022,2751,1288081.8,2,160.5,1,2000,restriction,all_foreign
+Kentucky,2022,421,112007.5,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2022,495,1701512.0,0,0.0,0,2023,restriction,adversarial_nations
+Maine,2022,435,3504956.9,1,97.5,0,,,
+Maryland,2022,220,59280.5,1,131.0,0,,,
+Massachusetts,2022,17,5029.0,0,0.0,0,,,
+Michigan,2022,771,1905662.4,0,0.0,0,,,
+Minnesota,2022,995,581582.4,2,442.0,1,2000,restriction,all_foreign
+Mississippi,2022,505,966905.4,1,88.0,0,2024,restriction,adversarial_nations
+Missouri,2022,1330,479392.4,11,43472.7,1,2000,restriction,all_foreign
+Montana,2022,348,935740.1,0,0.0,0,2023,restriction,adversarial_nations
+Nebraska,2022,2127,886861.6,0,0.0,0,2024,restriction,adversarial_nations
+Nevada,2022,64,513981.7,0,0.0,0,,,
+New Hampshire,2022,37,13784.0,0,0.0,0,,,
+New Jersey,2022,74,22388.0,1,20.0,0,,,
+New Mexico,2022,396,1310831.2,0,0.0,0,,,
+New York,2022,1759,959351.3,1,374.0,0,,,
+North Carolina,2022,623,787246.9,36,44101.8,0,,,
+North Dakota,2022,711,402181.2,0,0.0,0,2023,restriction,adversarial_nations
+Ohio,2022,1234,538170.7,5,334.0,0,2023,restriction,adversarial_nations
+Oklahoma,2022,4334,1793636.7,3,2575.0,0,2023,restriction,adversarial_nations
+Oregon,2022,396,1104416.8,4,197.0,0,,,
+Pennsylvania,2022,409,405889.2,2,680.0,0,,,
+Puerto Rico,2022,12,3095.0,1,150.0,0,,,
+Rhode Island,2022,1,17.0,0,0.0,0,,,
+South Carolina,2022,454,786684.4,5,1097.8,0,,,
+South Dakota,2022,732,411563.4,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2022,409,460788.6,0,0.0,0,2023,restriction,adversarial_nations
+Texas,2022,4890,5552351.4,41,172003.7,0,2025,restriction,adversarial_nations
+Utah,2022,94,128137.4,4,33034.9,0,2023,restriction,adversarial_nations
+Vermont,2022,567,84836.1,0,0.0,0,,,
+Virginia,2022,590,270161.0,8,4546.2,0,2023,restriction,adversarial_nations
+Washington,2022,1268,1726248.0,18,6541.0,0,,,
+West Virginia,2022,96,295533.6,1,41.2,0,,,
+Wisconsin,2022,721,599237.1,1,152.0,1,2000,restriction,all_foreign
+Wyoming,2022,155,434134.4,0,0.0,0,,,
+Alabama,2023,947,2210274.4,0,0.0,1,2023,restriction,adversarial_nations
+Alaska,2023,15,270401.0,0,0.0,0,,,
+Arizona,2023,309,343522.4,1,322.0,0,2025,restriction,adversarial_nations
+Arkansas,2023,779,1597041.2,1,160.0,1,2023,ban,adversarial_nations
+California,2023,1801,1469607.8,17,1758.7,0,,,
+Colorado,2023,1843,2477247.8,4,4339.5,0,,,
+Connecticut,2023,28,2040.8,0,0.0,0,,,
+Delaware,2023,16,5732.6,0,0.0,0,,,
+Florida,2023,1501,1560577.5,9,12797.6,1,2023,ban,adversarial_nations
+Georgia,2023,1362,1322504.5,4,1605.0,0,2024,restriction,adversarial_nations
+Hawaii,2023,138,283424.9,3,381.0,0,,,
+Idaho,2023,130,138165.7,3,146.9,1,2023,ban,adversarial_nations
+Illinois,2023,3154,824764.9,5,397.8,0,,,
+Indiana,2023,1251,438385.3,1,195.0,1,2022,restriction,adversarial_nations
+Iowa,2023,1689,490679.5,2,562.0,0,2024,restriction,adversarial_nations
+Kansas,2023,2940,1329227.8,3,321.3,1,2000,restriction,all_foreign
+Kentucky,2023,422,112081.5,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2023,508,1724447.0,0,0.0,1,2023,restriction,adversarial_nations
+Maine,2023,440,3512624.9,0,0.0,0,,,
+Maryland,2023,236,61813.0,2,237.7,0,,,
+Massachusetts,2023,18,5185.4,0,0.0,0,,,
+Michigan,2023,860,1879346.9,0,0.0,0,,,
+Minnesota,2023,1084,620227.2,2,442.0,1,2000,restriction,all_foreign
+Mississippi,2023,531,1006830.4,0,0.0,0,2024,restriction,adversarial_nations
+Missouri,2023,1370,480583.7,8,42904.7,1,2000,restriction,all_foreign
+Montana,2023,350,930299.7,0,0.0,1,2023,restriction,adversarial_nations
+Nebraska,2023,2237,936209.3,1,86.2,0,2024,restriction,adversarial_nations
+Nevada,2023,66,514309.3,0,0.0,0,,,
+New Hampshire,2023,38,13809.2,0,0.0,0,,,
+New Jersey,2023,79,22681.3,1,20.0,0,,,
+New Mexico,2023,467,1668979.8,0,0.0,0,,,
+New York,2023,1826,989494.5,0,0.0,0,,,
+North Carolina,2023,630,802556.9,37,44263.0,0,,,
+North Dakota,2023,846,446846.0,0,0.0,1,2023,restriction,adversarial_nations
+Ohio,2023,1284,540678.5,5,334.0,1,2023,restriction,adversarial_nations
+Oklahoma,2023,4451,1829711.7,3,2575.0,1,2023,restriction,adversarial_nations
+Oregon,2023,402,1271525.0,1,28.0,0,,,
+Pennsylvania,2023,413,406468.6,1,679.0,0,,,
+Puerto Rico,2023,12,3095.0,1,150.0,0,,,
+Rhode Island,2023,1,17.0,0,0.0,0,,,
+South Carolina,2023,497,871392.4,2,546.9,0,,,
+South Dakota,2023,861,471135.3,0,0.0,0,2024,restriction,adversarial_nations
+Tennessee,2023,422,474495.8,0,0.0,1,2023,restriction,adversarial_nations
+Texas,2023,5183,5775516.1,35,151280.7,0,2025,restriction,adversarial_nations
+Utah,2023,96,129051.8,4,33034.9,1,2023,restriction,adversarial_nations
+Vermont,2023,568,84923.9,0,0.0,0,,,
+Virginia,2023,606,275569.2,9,4653.9,1,2023,restriction,adversarial_nations
+Washington,2023,1326,1787990.6,2,535.0,0,,,
+West Virginia,2023,103,329061.4,1,41.2,0,,,
+Wisconsin,2023,734,641240.7,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2023,173,466454.9,0,0.0,0,,,
+Alabama,2024,980,2233833.1,0,0.0,1,2023,restriction,adversarial_nations
+Alaska,2024,15,270401.0,0,0.0,0,,,
+Arizona,2024,325,356928.0,1,322.0,0,2025,restriction,adversarial_nations
+Arkansas,2024,828,1529534.0,1,160.0,1,2023,ban,adversarial_nations
+California,2024,1859,1485723.6,19,3578.8,0,,,
+Colorado,2024,1852,2449006.9,6,4430.9,0,,,
+Connecticut,2024,28,2040.8,0,0.0,0,,,
+Delaware,2024,17,5847.6,0,0.0,0,,,
+Florida,2024,1499,1540571.7,8,12554.6,1,2023,ban,adversarial_nations
+Georgia,2024,1381,1361361.2,3,1509.0,1,2024,restriction,adversarial_nations
+Hawaii,2024,139,283585.9,3,381.0,0,,,
+Idaho,2024,139,154672.8,3,146.9,1,2023,ban,adversarial_nations
+Illinois,2024,3266,890346.5,4,374.8,0,,,
+Indiana,2024,1379,468308.1,1,195.0,1,2022,restriction,adversarial_nations
+Iowa,2024,1757,509572.4,2,562.0,1,2024,restriction,adversarial_nations
+Kansas,2024,3011,1348963.4,3,258.8,1,2000,restriction,all_foreign
+Kentucky,2024,516,127648.3,2,110.0,0,2025,restriction,adversarial_nations
+Louisiana,2024,538,1760475.3,0,0.0,1,2023,restriction,adversarial_nations
+Maine,2024,459,3544104.6,0,0.0,0,,,
+Maryland,2024,233,60410.9,2,237.7,0,,,
+Massachusetts,2024,18,5185.4,0,0.0,0,,,
+Michigan,2024,900,1951159.1,0,0.0,0,,,
+Minnesota,2024,1128,629651.1,2,442.0,1,2000,restriction,all_foreign
+Mississippi,2024,596,1121214.0,0,0.0,1,2024,restriction,adversarial_nations
+Missouri,2024,1319,460489.2,8,42904.7,1,2000,restriction,all_foreign
+Montana,2024,381,1038583.8,0,0.0,1,2023,restriction,adversarial_nations
+Nebraska,2024,2382,964897.2,0,0.0,1,2024,restriction,adversarial_nations
+Nevada,2024,66,512729.3,0,0.0,0,,,
+New Hampshire,2024,38,13809.2,0,0.0,0,,,
+New Jersey,2024,77,22316.8,1,20.0,0,,,
+New Mexico,2024,625,1918841.7,0,0.0,0,,,
+New York,2024,2073,1068142.9,0,0.0,0,,,
+North Carolina,2024,673,615507.2,37,44263.0,0,,,
+North Dakota,2024,879,458816.7,0,0.0,1,2023,restriction,adversarial_nations
+Ohio,2024,1301,548079.8,5,334.0,1,2023,restriction,adversarial_nations
+Oklahoma,2024,4854,2027576.0,3,2575.0,1,2023,restriction,adversarial_nations
+Oregon,2024,444,1423428.1,1,28.0,0,,,
+Pennsylvania,2024,482,438642.8,1,679.0,0,,,
+Puerto Rico,2024,22,3627.4,0,0.0,0,,,
+Rhode Island,2024,2,23.2,0,0.0,0,,,
+South Carolina,2024,507,868036.6,2,546.9,0,,,
+South Dakota,2024,880,481234.3,1,9.9,1,2024,restriction,adversarial_nations
+Tennessee,2024,422,478317.1,0,0.0,1,2023,restriction,adversarial_nations
+Texas,2024,5506,6009458.4,35,151280.7,0,2025,restriction,adversarial_nations
+Utah,2024,104,102674.7,5,2097.3,1,2023,restriction,adversarial_nations
+Vermont,2024,578,107491.9,0,0.0,0,,,
+Virginia,2024,661,293803.4,9,4653.9,1,2023,restriction,adversarial_nations
+Washington,2024,1368,1846342.5,2,535.0,0,,,
+West Virginia,2024,102,329001.4,1,41.2,0,,,
+Wisconsin,2024,743,635185.4,0,0.0,1,2000,restriction,all_foreign
+Wyoming,2024,196,484217.6,0,0.0,0,,,

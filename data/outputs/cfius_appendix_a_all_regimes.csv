@@ -1,0 +1,231 @@
+site_name,location,current_part,threshold_miles,regime_added,latitude,longitude,conus
+Adelphi Laboratory Center,"Adelphi, MD",1,1,2020,,,Y
+Air Force Maui Optical and Supercomputing Site,"Maui, HI",1,1,2020,,,N
+Air Force Office of Scientific Research,"Arlington, VA",1,1,2020,,,Y
+Andersen Air Force Base,"Yigo, Guam",1,1,2020,,,N
+Anniston Army Depot,"Anniston, AL",1,1,2024,,,Y
+Army Futures Command,"Austin, TX",1,1,2020,,,Y
+Army Research Lab—Orlando Simulations and Training Technology Center,"Orlando, FL",1,1,2020,,,Y
+Army Research Office,"Durham, NC",1,1,2020,,,Y
+Barter Island Regional Radar Site,"Barter Island, AK",1,1,2024,,,N
+Beale Air Force Base,"Yuba City, CA",1,1,2020,,,Y
+Biometric Technology Center (Defense Forensics and Biometrics Agency),"Clarksburg, WV",1,1,2020,,,Y
+Blue Grass Army Depot,"Richmond, KY",1,1,2024,,,Y
+Buckley Space Force Base,"Aurora, CO",1,1,2020,,,Y
+Camp Blaz,"Dededo, Guam",1,1,2024,,,N
+Camp Mackall,"Southern Pines, NC",1,1,2020,,,Y
+Camp Navajo,"Bellemont, AZ",1,1,2024,,,Y
+Camp Roberts,"San Miguel, CA",1,1,2024,,,Y
+Cape Newenham Long Range Radar Site,"Cape Newenham, AK",1,1,2020,,,N
+Cavalier Space Force Station,"Cavalier, ND",1,1,2020,,,Y
+Cheyenne Mountain Space Force Station,"Colorado Springs, CO",1,1,2020,,,Y
+Clear Space Force Station,"Anderson, AK",1,1,2020,,,N
+Cold Bay Regional Radar Site,"Cold Bay, AK",1,1,2024,,,N
+Combat Capabilities Development Command Soldier Center,"Natick, MA",1,1,2020,,,Y
+Creech Air Force Base,"Indian Springs, NV",1,1,2020,,,Y
+Davis-Monthan Air Force Base,"Tucson, AZ",1,1,2020,,,Y
+Defense Advanced Research Projects Agency,"Arlington, VA",1,1,2020,,,Y
+Detroit Arsenal,"Warren, MI",1,1,2024,,,Y
+Eareckson Air Station,"Shemya, AK",1,1,2020,,,N
+Eielson Air Force Base,"Fairbanks, AK",1,1,2020,,,N
+Ellington Field Joint Reserve Base,"Houston, TX",1,1,2020,,,Y
+Fairchild Air Force Base,"Spokane, WA",1,1,2020,,,Y
+Fort Belvoir,"Fairfax County, VA",1,1,2020,,,Y
+Fort Bliss,"El Paso, TX",1,1,2020,,,Y
+Fort Campbell,"Hopkinsville, KY and Clarksville, TN",1,1,2020,,,Y
+Fort Carson,"Colorado Springs, CO",1,1,2020,,,Y
+Fort Cavazos,"Killeen, TX",1,1,2020,,,Y
+Fort Detrick,"Frederick, MD",1,1,2020,,,Y
+Fort Drum,"Watertown, NY",1,1,2020,,,Y
+Fort Eisenhower,"Augusta, GA",1,1,2020,,,Y
+Fort Gregg-Adams,"Petersburg, VA",1,1,2020,,,Y
+Fort Knox,"Elizabethtown, KY",1,1,2020,,,Y
+Fort Leavenworth,"Leavenworth County, KS",1,1,2020,,,Y
+Fort Leonard Wood,"Pulaski County, MO",1,1,2020,,,Y
+Fort Meade,"Anne Arundel County, MD",1,1,2020,,,Y
+Fort Moore,"Columbus, GA",1,1,2020,,,Y
+Fort Riley,"Junction City, KS",1,1,2020,,,Y
+Fort Shafter,"Honolulu, HI",1,1,2020,,,N
+Fort Sill,"Lawton, OK",1,1,2020,,,Y
+Fort Stewart,"Hinesville, GA",1,1,2020,,,Y
+Fort Yukon Long Range Radar Site,"Fort Yukon, AK",1,1,2020,,,N
+Francis E. Warren Air Force Base,"Cheyenne, WY",1,1,2020,,,Y
+Guam Tracking Station,"Inarajan, Guam",1,1,2020,,,N
+Hanscom Air Force Base,"Lexington, MA",1,1,2020,,,Y
+Hawthorne Army Depot,"Hawthorne, NV",1,1,2024,,,Y
+Holloman Air Force Base,"Alamogordo, NM",1,1,2020,,,Y
+Holston Army Ammunition Plant,"Kingsport, TN",1,1,2020,,,Y
+Indian Mountain Regional Radar Site,"Indian Mountain, AK",1,1,2024,,,N
+Iowa Army Ammunition Plant,"Middletown, IA",1,1,2024,,,Y
+Joint Base Anacostia-Bolling,"Washington, DC",1,1,2020,,,Y
+Joint Base Andrews,"Camp Springs, MD",1,1,2020,,,Y
+Joint Base Elmendorf-Richardson,"Anchorage, AK",1,1,2020,,,N
+Joint Base Langley-Eustis,"Hampton, VA and Newport News, VA",1,1,2020,,,Y
+Joint Base Lewis-McChord,"Tacoma, WA",1,1,2020,,,Y
+Joint Base McGuire-Dix-Lakehurst,"Lakehurst, NJ",1,1,2020,,,Y
+Joint Base Myer-Henderson Hall,"Arlington, VA",1,1,2024,,,Y
+Joint Base Pearl Harbor-Hickam,"Honolulu, HI",1,1,2020,,,N
+Joint Expeditionary Base Little Creek-Fort Story,"Virginia Beach, VA",1,1,2020,,,Y
+Joint Systems Manufacturing Center—Lima,"Lima, OH",1,1,2024,,,Y
+Kaena Point Satellite Tracking Station,"Waianae, HI",1,1,2020,,,N
+Kenai Regional Radar Site,"Kenai, AK",1,1,2024,,,N
+King Salmon Air Force Station,"King Salmon, AK",1,1,2020,,,N
+Kirtland Air Force Base,"Albuquerque, NM",1,1,2020,,,Y
+Kodiak Tracking Station,"Kodiak Island, AK",1,1,2020,,,N
+Kotzebue Regional Radar Site,"Kotzebue, AK",1,1,2024,,,N
+Lake City Army Ammunition Plant,"Independence, MO",1,1,2024,,,Y
+Letterkenny Army Depot,"Chambersburg, PA",1,1,2024,,,Y
+Lisburne Regional Radar Site,"Cape Lisburne, AK",1,1,2024,,,N
+Los Angeles Air Force Base,"El Segundo, CA",1,1,2020,,,Y
+MacDill Air Force Base,"Tampa, FL",1,1,2020,,,Y
+Marine Corps Air Ground Combat Center Twentynine Palms,"Twentynine Palms, CA",1,1,2020,,,Y
+Marine Corps Air Station Beaufort,"Beaufort, SC",1,1,2020,,,Y
+Marine Corps Air Station Cherry Point,"Cherry Point, NC",1,1,2020,,,Y
+Marine Corps Air Station Miramar,"San Diego, CA",1,1,2020,,,Y
+Marine Corps Air Station New River,"Jacksonville, NC",1,1,2020,,,Y
+Marine Corps Air Station Yuma,"Yuma, AZ",1,1,2020,,,Y
+Marine Corps Base Camp Lejeune,"Jacksonville, NC",1,1,2020,,,Y
+Marine Corps Base Camp Pendleton,"Oceanside, CA",1,1,2020,,,Y
+Marine Corps Base Hawaii,"Kaneohe Bay, HI",1,1,2020,,,N
+"Marine Corps Base Hawaii, Camp H.M. Smith","Halawa, HI",1,1,2020,,,N
+Marine Corps Base Quantico,"Quantico, VA",1,1,2020,,,Y
+Marine Corps Logistics Base Albany,"Albany, GA",1,1,2024,,,Y
+Marine Corps Logistics Base Barstow,"Barstow, CA",1,1,2024,,,Y
+Marine Corps Support Facility Blount Island,"Jacksonville, FL",1,1,2024,,,Y
+Mark Center,"Alexandria, VA",1,1,2020,,,Y
+McAlester Army Ammunition Plant,"McAlester, OK",1,1,2024,,,Y
+Military Ocean Terminal Concord,"Concord, CA",1,1,2024,,,Y
+Military Ocean Terminal Sunny Point,"Brunswick County, NC",1,1,2024,,,Y
+Minot Air Force Base,"Minot, ND",1,1,2020,,,Y
+Naval Air Station Corpus Christi,"Corpus Christi, TX",1,1,2024,,,Y
+Naval Air Station Joint Reserve Base New Orleans,"Belle Chasse, LA",1,1,2020,,,Y
+Naval Air Station Oceana,"Virginia Beach, VA",1,1,2020,,,Y
+Naval Air Station Oceana Dam Neck Annex,"Virginia Beach, VA",1,1,2020,,,Y
+Naval Air Station Whidbey Island,"Oak Harbor, WA",1,1,2020,,,Y
+Naval Base Guam,"Apra Harbor, Guam",1,1,2020,,,N
+Naval Base Kitsap Bangor,"Silverdale, WA",1,1,2020,,,Y
+Naval Base Point Loma,"San Diego, CA",1,1,2020,,,Y
+Naval Base San Diego,"San Diego, CA",1,1,2020,,,Y
+Naval Base Ventura County—Port Hueneme Operating Facility,"Port Hueneme, CA",1,1,2020,,,Y
+Naval Logistics Support Activity Ketchikan,"Ketchikan, AK",1,1,2024,,,N
+Naval Logistics Support Activity LaMoure,"LaMoure, ND",1,1,2024,,,Y
+Naval Logistics Support Annex Orlando,"Okahumpka, FL",1,1,2024,,,Y
+Naval Logistics Support Facility Aguada,"Aguada, Puerto Rico",1,1,2024,,,N
+Naval Logistics Support Facility Cutler,"Cutler, ME",1,1,2024,,,Y
+Naval Research Laboratory,"Washington, DC",1,1,2020,,,Y
+Naval Research Laboratory—Blossom Point,"Welcome, MD",1,1,2020,,,Y
+Naval Research Laboratory—Stennis Space Center,"Hancock County, MS",1,1,2020,,,Y
+Naval Research Laboratory—Tilghman,"Tilghman, MD",1,1,2020,,,Y
+Naval Station Newport,"Newport, RI",1,1,2020,,,Y
+Naval Station Norfolk,"Norfolk, VA",1,1,2020,,,Y
+Naval Submarine Base Kings Bay,"Kings Bay, GA",1,1,2020,,,Y
+Naval Submarine Base New London,"Groton, CT",1,1,2020,,,Y
+Naval Suffolk Facility,"Suffolk, VA",1,1,2024,,,Y
+Naval Support Activity Crane,"Crane, IN",1,1,2020,,,Y
+Naval Support Activity Orlando,"Orlando, FL",1,1,2020,,,Y
+Naval Support Activity Panama City,"Panama City, FL",1,1,2020,,,Y
+Naval Support Activity Philadelphia,"Philadelphia, PA",1,1,2020,,,Y
+Naval Support Facility Carderock,"Bethesda, MD",1,1,2020,,,Y
+Naval Support Facility Dahlgren,"Dahlgren, VA",1,1,2020,,,Y
+Naval Support Facility Indian Head,"Indian Head, MD",1,1,2020,,,Y
+Naval Surface Warfare Center Carderock Division—Acoustic Research Detachment,"Bayview, ID",1,1,2020,,,Y
+Naval Weapons Station Seal Beach Detachment Norco,"Norco, CA",1,1,2020,,,Y
+New Boston Air Station,"New Boston, NH",1,1,2020,,,Y
+Offutt Air Force Base,"Bellevue, NE",1,1,2020,,,Y
+Oliktok Long Range Radar Site,"Oliktok, AK",1,1,2020,,,N
+Orchard Combat Training Center,"Boise, ID",1,1,2020,,,Y
+Peason Ridge Training Area,"Leesville, LA",1,1,2020,,,Y
+Pentagon,"Arlington, VA",1,1,2020,,,Y
+Peterson Space Force Base,"Colorado Springs, CO",1,1,2020,,,Y
+Picatinny Arsenal,"Morris County, NJ",1,1,2020,,,Y
+Pine Bluff Arsenal,"White Hall, AR",1,1,2024,,,Y
+Pinon Canyon Maneuver Site,"Tyrone, CO",1,1,2020,,,Y
+Pohakuloa Training Area,"Hilo, HI",1,1,2020,,,N
+Point Barrow Long Range Radar Site,"Point Barrow, AK",1,1,2020,,,N
+Portsmouth Naval Shipyard,"Kittery, ME",1,1,2020,,,Y
+Pueblo Chemical Depot,"Pueblo, CO",1,1,2024,,,Y
+Radford Army Ammunition Plant,"Radford, VA",1,1,2020,,,Y
+Red River Army Depot,"Texarkana, TX",1,1,2024,,,Y
+Rock Island Arsenal,"Rock Island, IL",1,1,2020,,,Y
+Romanzof Regional Radar Site,"Romanzof, AK",1,1,2024,,,N
+Rome Research Laboratory,"Rome, NY",1,1,2020,,,Y
+Scott Air Force Base,"St. Clair County, IL",1,1,2024,,,Y
+Scranton Army Ammunition Plant,"Scranton, PA",1,1,2024,,,Y
+Seymour Johnson Air Force Base,"Goldsboro, NC",1,1,2020,,,Y
+Shaw Air Force Base,"Sumter, SC",1,1,2020,,,Y
+Southeast Alaska Acoustic Measurement Facility,"Ketchikan, AK",1,1,2020,,,N
+Sparrevohn Regional Radar Site,"Sparrevohn, AK",1,1,2024,,,N
+Tatalina Regional Radar Site,"Tatalina, AK",1,1,2024,,,N
+Tin City Long Range Radar Site,"Tin City, AK",1,1,2020,,,N
+Tooele Army Depot,"Tooele, UT",1,1,2024,,,Y
+Travis Air Force Base,"Fairfield, CA",1,1,2020,,,Y
+Tyndall Air Force Base,"Bay County, FL",1,1,2020,,,Y
+Watervliet Arsenal,"Watervliet, NY",1,1,2020,,,Y
+Aberdeen Proving Ground,"Aberdeen, MD",2,100,2020,,,Y
+Air Force Plant 42,"Palmdale, CA",2,100,2020,,,Y
+Altus Air Force Base,"Altus, OK",2,100,2024,,,Y
+Arnold Air Force Base,"Coffee County and Franklin County, TN",2,100,2020_moved_2024,,,Y
+Barksdale Air Force Base,"Bossier City, LA",2,100,2024,,,Y
+Camp Dodge,"Johnston, IA",2,100,2024,,,Y
+Camp Grayling,"Grayling, MI",2,100,2024,,,Y
+Camp Shelby,"Hattiesburg, MS",2,100,2020,,,Y
+Camp Williams,"Bluffdale, UT",2,100,2024,,,Y
+Cannon Air Force Base,"Clovis, NM",2,100,2024,,,Y
+Cape Canaveral Space Force Station,"Cape Canaveral, FL",2,100,2020,,,Y
+Chocolate Mountain Aerial Gunnery Range,"Niland, CA",2,100,2024,,,Y
+Columbus Air Force Base,"Columbus, MS",2,100,2024,,,Y
+Dare County Range,"Manns Harbor, NC",2,100,2020,,,Y
+Dover Air Force Base,"Delmarva, DE",2,100,2024,,,Y
+Dyess Air Force Base,"Abilene, TX",2,100,2023,,,Y
+Edwards Air Force Base,"Edwards, CA",2,100,2023,,,Y
+Eglin Air Force Base,"Valparaiso, FL",2,100,2020,,,Y
+Ellsworth Air Force Base,"Box Elder, SD",2,100,2023,,,Y
+Fallon Range Complex,"Fallon, NV",2,100,2020,,,Y
+Fort Greely,"Delta Junction, AK",2,100,2020,,,N
+Fort Huachuca,"Sierra Vista, AZ",2,100,2023,,,Y
+Fort Irwin,"San Bernardino County, CA",2,100,2020,,,Y
+Fort Johnson,"Vernon Parish, LA",2,100,2020,,,Y
+Fort Liberty,"Fayetteville, NC",2,100,2020,,,Y
+Fort Novosel,"Dale County, AL",2,100,2024,,,Y
+Fort Wainwright,"Fairbanks, AK",2,100,2020,,,N
+Goodfellow Air Force Base,"San Angelo, TX",2,100,2024,,,Y
+Grand Forks Air Force Base,"Grand Forks, ND",2,100,2023,,,Y
+Hardwood Range,"Necedah, WI",2,100,2020,,,Y
+Hill Air Force Base,"Ogden, UT",2,100,2020,,,Y
+Joint Base Cape Cod,"Sandwich, MA",2,100,2024,,,Y
+Joint Base Charleston,"North Charleston, SC",2,100,2024,,,Y
+Joint Base San Antonio,"San Antonio, TX",2,100,2020_moved_2024,,,Y
+Laughlin Air Force Base,"Del Rio, TX",2,100,2023,,,Y
+Little Rock Air Force Base,"Little Rock, AR",2,100,2024,,,Y
+Luke Air Force Base,"Glendale, AZ",2,100,2023,,,Y
+Malmstrom Air Force Base,"Great Falls, MT",2,100,2020_moved_2024,,,Y
+Maxwell-Gunter Air Force Base,"Montgomery, AL",2,100,2024,,,Y
+Moody Air Force Base,"Valdosta, GA",2,100,2020_moved_2024,,,Y
+Mountain Home Air Force Base,"Mountain Home, ID",2,100,2020,,,Y
+Muscatatuck Urban Training Center,"Butlerville, IN",2,100,2024,,,Y
+Naval Air Station Meridian,"Meridian, MS",2,100,2020,,,Y
+Naval Air Station Patuxent River,"Lexington Park, MD",2,100,2020,,,Y
+Naval Air Weapons Station China Lake,"Ridgecrest, CA",2,100,2020,,,Y
+Naval Base Kitsap—Keyport,"Keyport, WA",2,100,2020,,,Y
+Naval Base Ventura County—Point Mugu Operating Facility,"Point Mugu, CA",2,100,2020,,,Y
+Naval Weapons Systems Training Facility Boardman,"Boardman, OR",2,100,2020,,,Y
+Nellis Air Force Base,"Las Vegas, NV",2,100,2020,,,Y
+Nevada Test and Training Range,"Tonopah, NV",2,100,2020,,,Y
+Pacific Missile Range Facility,"Kekaha, HI",2,100,2020,,,N
+Patrick Space Force Base,"Cocoa Beach, FL",2,100,2020,,,Y
+Redstone Arsenal,"Huntsville, AL",2,100,2020_moved_2024,,,Y
+Schriever Space Force Base,"Colorado Springs, CO",2,100,2020_moved_2024,,,Y
+Tinker Air Force Base,"Midwest City, OK",2,100,2020_moved_2024,,,Y
+Townsend Bombing Range,"McIntosh County, GA",2,100,2024,,,Y
+Tropic Regions Test Center,"Wahiawa, HI",2,100,2020,,,N
+Utah Test and Training Range,"Barro, UT",2,100,2020,,,Y
+Vance Air Force Base,"Enid, OK",2,100,2024,,,Y
+Vandenberg Space Force Base,"Lompoc, CA",2,100,2020,,,Y
+West Desert Test Center,"Dugway, UT",2,100,2020,,,Y
+White Sands Missile Range,"White Sands Missile Range, NM",2,100,2020,,,Y
+Whiteman Air Force Base,"Knob Noster, MO",2,100,2024,,,Y
+Wright-Patterson Air Force Base,"Dayton, OH",2,100,2020_moved_2024,,,Y
+Yuma Proving Ground,"Yuma, AZ",2,100,2020,,,Y
+Iowa National Guard Joint Force Headquarters,"Des Moines, IA",0,100,2023,,,Y
+Cape Cod Air Force Station,"Sandwich, MA",0,1,2020,,,Y
+Lackland Air Force Base,"San Antonio, TX",0,100,2020,,,Y
