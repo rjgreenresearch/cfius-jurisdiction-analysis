@@ -1,120 +1,120 @@
 fips,county,state,acres,r4_nearest_dist,r4_covered
-45085,Sumter,South Carolina,339.0,6.7,Y
-48201,Harris,Texas,392.0,8.4,N
-12095,Orange,Florida,475.0,8.9,Y
-24025,Harford,Maryland,237.7,9.3,Y
-19015,Boone,Iowa,562.0,10.1,Y
-20061,Geary,Kansas,97.5,11.2,N
-37093,Hoke,North Carolina,463.2,12.6,Y
-37165,Scotland,North Carolina,4096.4,13.3,Y
-04013,Maricopa,Arizona,322.0,14.5,Y
-51181,Surry,Virginia,900.3,15.5,Y
-37153,Richmond,North Carolina,132.7,16.2,Y
-37177,Tyrrell,North Carolina,51.4,19.2,Y
-37049,Craven,North Carolina,81.5,19.8,Y
-37051,Cumberland,North Carolina,247.5,20.2,Y
-37085,Harnett,North Carolina,360.8,20.2,Y
-37107,Lenoir,North Carolina,223.1,20.2,Y
-49045,Tooele,Utah,425.0,20.7,Y
-15001,Hawaii,Hawaii,381.0,20.8,N
-51183,Sussex,Virginia,1390.2,21.9,Y
-51093,Isle of Wight,Virginia,1053.1,25.9,Y
-39063,Hancock,Ohio,239.0,26.1,Y
+04013,Maricopa,Arizona,322.0,14.4,Y
+05031,Craighead,Arkansas,160.0,106.3,N
 06001,Alameda,California,183.0,26.5,N
-51107,Loudoun,Virginia,96.0,26.8,Y
-37061,Duplin,North Carolina,4908.4,27.7,Y
-37103,Jones,North Carolina,1716.2,28.2,Y
-48209,Hays,Texas,342.1,29.3,Y
-06113,Yolo,California,150.0,29.4,N
-34019,Hunterdon,New Jersey,20.0,30.2,N
-37163,Sampson,North Carolina,9371.3,32.4,Y
-54077,Preston,West Virginia,41.2,33.3,N
-06073,San Diego,California,277.0,33.5,Y
-37155,Robeson,North Carolina,4804.3,34.0,Y
-12097,Osceola,Florida,503.0,34.9,Y
-37007,Anson,North Carolina,616.6,36.4,Y
-37037,Chatham,North Carolina,12.6,36.4,Y
-37141,Pender,North Carolina,1288.0,36.8,N
-51175,Southampton,Virginia,455.4,37.6,Y
-16027,Canyon,Idaho,146.9,38.1,Y
-08039,Elbert,Colorado,52.5,39.4,Y
-51081,Greensville,Virginia,217.0,40.4,Y
-37047,Columbus,North Carolina,360.4,42.7,Y
-48465,Val Verde,Texas,116699.4,43.0,Y
-06097,Sonoma,California,336.8,43.5,N
-45033,Dillon,South Carolina,207.8,44.6,Y
-37065,Edgecombe,North Carolina,317.4,45.3,Y
-51047,Culpeper,Virginia,491.8,45.6,Y
-08069,Larimer,Colorado,39.0,46.4,N
-21091,Hancock,Kentucky,40.0,47.2,N
-08123,Weld,Colorado,80.0,47.6,N
-12049,Hardee,Florida,1311.0,49.2,Y
-12105,Polk,Florida,9952.0,49.8,Y
-06065,Riverside,California,271.0,50.5,Y
-39061,Hamilton,Ohio,5.0,50.7,Y
-37017,Bladen,North Carolina,9831.2,51.3,Y
-48137,Edwards,Texas,40.0,52.0,Y
-37091,Hertford,North Carolina,1026.8,52.2,Y
-53039,Klickitat,Washington,480.0,53.3,Y
-42077,Lehigh,Pennsylvania,679.0,53.6,Y
-53073,Whatcom,Washington,55.0,54.8,Y
-39049,Franklin,Ohio,69.0,56.1,Y
-06031,Kings,California,1553.2,56.4,N
-37131,Northampton,North Carolina,2412.7,56.4,Y
-06085,Santa Clara,California,61.2,56.9,N
-06029,Kern,California,298.1,59.4,Y
-37117,Martin,North Carolina,60.3,60.2,Y
-06021,Glenn,California,47.5,61.8,N
-18003,Allen,Indiana,195.0,61.8,N
-21031,Butler,Kentucky,70.0,64.0,N
-29061,Daviess,Missouri,2805.8,64.4,Y
-29075,Gentry,Missouri,3981.4,64.6,N
-37015,Bertie,North Carolina,420.4,65.4,Y
-37083,Halifax,North Carolina,764.8,66.3,Y
-48481,Wharton,Texas,265.0,67.4,N
-37185,Warren,North Carolina,695.4,71.8,N
-51037,Charlotte,Virginia,50.0,74.6,N
-49027,Millard,Utah,38.9,74.9,Y
-17191,Wayne,Illinois,156.8,76.3,N
-29115,Linn,Missouri,25.0,82.5,Y
-13151,Henry,Georgia,553.0,82.8,N
-29081,Harrison,Missouri,80.0,84.3,N
-27027,Clay,Minnesota,31.0,84.7,Y
-29079,Grundy,Missouri,225.3,85.3,Y
-41061,Union,Oregon,28.0,86.9,Y
-48349,Navarro,Texas,38.7,90.0,N
 06019,Fresno,California,218.0,92.1,N
-12071,Lee,Florida,145.0,93.4,N
-17037,De Kalb,Illinois,80.0,95.0,N
-13217,Newton,Georgia,956.0,95.9,N
-48239,Jackson,Texas,26454.0,96.3,N
-48179,Gray,Texas,1583.7,100.6,N
-29129,Mercer,Missouri,13946.0,102.3,N
-40059,Harper,Oklahoma,293.4,102.4,N
-29171,Putnam,Missouri,8369.5,102.7,N
-40045,Ellis,Oklahoma,831.6,103.2,N
-20167,Russell,Kansas,0.5,103.8,N
+06021,Glenn,California,47.5,62.6,N
+06029,Kern,California,298.1,58.8,Y
+06031,Kings,California,1553.2,56.4,N
+06065,Riverside,California,271.0,56.0,Y
+06073,San Diego,California,277.0,23.5,Y
+06085,Santa Clara,California,61.2,56.9,N
+06097,Sonoma,California,336.8,43.5,N
+06107,Tulare,California,183.0,67.5,Y
+06113,Yolo,California,150.0,29.3,N
+08039,Elbert,Colorado,52.5,39.1,Y
+08069,Larimer,Colorado,39.0,46.5,N
+08123,Weld,Colorado,80.0,47.6,Y
+08125,Yuma,Colorado,4259.5,125.4,N
+12021,Collier,Florida,138.6,139.0,N
+12086,Dade,Florida,30.0,180.8,N
+12049,Hardee,Florida,1311.0,48.8,Y
+12071,Lee,Florida,145.0,92.9,N
+12095,Orange,Florida,475.0,9.1,Y
+12097,Osceola,Florida,503.0,35.0,Y
+12105,Polk,Florida,9952.0,49.6,Y
+13151,Henry,Georgia,553.0,81.8,N
+13217,Newton,Georgia,956.0,94.0,N
+15001,Hawaii,Hawaii,381.0,10.7,N
+16027,Canyon,Idaho,146.9,39.6,Y
+17019,Champaign,Illinois,117.0,115.4,N
+17037,De Kalb,Illinois,80.0,95.6,N
+17191,Wayne,Illinois,156.8,77.6,N
+17197,Will,Illinois,21.0,133.4,N
+18003,Allen,Indiana,195.0,61.8,N
+19015,Boone,Iowa,562.0,23.2,Y
+20061,Geary,Kansas,97.5,13.3,N
+20163,Rooks,Kansas,160.8,134.4,N
+20167,Russell,Kansas,0.5,105.9,N
+21031,Butler,Kentucky,70.0,65.2,N
+21091,Hancock,Kentucky,40.0,49.0,N
+24025,Harford,Maryland,237.7,17.0,Y
+27027,Clay,Minnesota,31.0,84.6,Y
+27049,Goodhue,Minnesota,411.0,132.5,N
+29061,Daviess,Missouri,2805.8,64.5,Y
+29075,Gentry,Missouri,3981.4,64.5,N
+29079,Grundy,Missouri,225.3,85.3,Y
+29081,Harrison,Missouri,80.0,84.3,Y
+29115,Linn,Missouri,25.0,82.3,Y
+29129,Mercer,Missouri,13946.0,91.5,Y
+29171,Putnam,Missouri,8369.5,94.5,Y
 29211,Sullivan,Missouri,13471.6,104.8,N
-48231,Hunt,Texas,1100.7,105.6,N
-05031,Craighead,Arkansas,160.0,106.2,N
-06107,Tulare,California,183.0,107.2,N
-48467,Van Zandt,Texas,20.0,108.0,N
-17019,Champaign,Illinois,117.0,116.4,N
-48057,Calhoun,Texas,1119.0,118.3,N
-48393,Roberts,Texas,10.0,118.8,N
-48085,Collin,Texas,23.1,118.9,N
-48113,Dallas,Texas,143.0,118.9,N
-49001,Beaver,Utah,828.5,124.2,N
-08125,Yuma,Colorado,4259.5,125.7,N
-48397,Rockwall,Texas,472.0,127.7,N
-48121,Denton,Texas,82.0,129.5,N
-27049,Goodhue,Minnesota,411.0,132.1,N
+34019,Hunterdon,New Jersey,20.0,33.0,N
+37007,Anson,North Carolina,616.6,35.4,Y
+37015,Bertie,North Carolina,420.4,65.5,Y
+37017,Bladen,North Carolina,9831.2,47.3,Y
+37037,Chatham,North Carolina,12.6,41.5,Y
+37047,Columbus,North Carolina,360.4,42.7,Y
+37049,Craven,North Carolina,81.5,19.8,Y
+37051,Cumberland,North Carolina,247.5,18.2,Y
+37061,Duplin,North Carolina,4908.4,28.5,Y
+37065,Edgecombe,North Carolina,317.4,44.1,Y
+37083,Halifax,North Carolina,764.8,65.2,N
+37085,Harnett,North Carolina,360.8,23.6,Y
+37091,Hertford,North Carolina,1026.8,44.3,Y
+37093,Hoke,North Carolina,463.2,8.3,Y
+37103,Jones,North Carolina,1716.2,26.0,Y
+37107,Lenoir,North Carolina,223.1,19.6,Y
+37117,Martin,North Carolina,60.3,58.9,Y
+37131,Northampton,North Carolina,2412.7,56.6,Y
+37141,Pender,North Carolina,1288.0,21.0,Y
+37153,Richmond,North Carolina,132.7,15.2,Y
+37155,Robeson,North Carolina,4804.3,32.5,Y
+37163,Sampson,North Carolina,9371.3,33.8,Y
+37165,Scotland,North Carolina,4096.4,13.1,Y
+37177,Tyrrell,North Carolina,51.4,20.0,Y
+37185,Warren,North Carolina,695.4,72.1,N
+39049,Franklin,Ohio,69.0,56.2,Y
+39061,Hamilton,Ohio,5.0,50.3,Y
+39063,Hancock,Ohio,239.0,26.1,Y
 39133,Portage,Ohio,21.0,132.2,N
-17197,Will,Illinois,21.0,132.8,N
-20163,Rooks,Kansas,160.8,133.2,N
-12021,Collier,Florida,138.6,139.5,N
-40007,Beaver,Oklahoma,1450.0,145.3,N
-49021,Iron,Utah,804.9,147.1,N
-12086,Dade,Florida,30.0,181.3,N
-46053,Gregory,South Dakota,9.9,206.3,N
+40007,Beaver,Oklahoma,1450.0,145.2,N
+40045,Ellis,Oklahoma,831.6,103.0,N
+40059,Harper,Oklahoma,293.4,102.3,N
+41061,Union,Oregon,28.0,86.2,Y
+42077,Lehigh,Pennsylvania,679.0,47.4,Y
+45033,Dillon,South Carolina,207.8,44.5,Y
+45085,Sumter,South Carolina,339.0,6.7,N
+46053,Gregory,South Dakota,9.9,206.4,N
+48057,Calhoun,Texas,1119.0,118.4,N
 48061,Cameron,Texas,2496.0,233.9,N
+48085,Collin,Texas,23.1,118.9,N
+48113,Dallas,Texas,143.0,121.0,N
+48121,Denton,Texas,82.0,129.9,N
+48137,Edwards,Texas,40.0,51.9,Y
+48179,Gray,Texas,1583.7,100.8,N
+48201,Harris,Texas,392.0,8.4,N
+48209,Hays,Texas,342.1,29.3,Y
+48231,Hunt,Texas,1100.7,105.6,N
+48239,Jackson,Texas,26454.0,96.4,N
+48349,Navarro,Texas,38.7,94.0,N
+48393,Roberts,Texas,10.0,118.9,N
+48397,Rockwall,Texas,472.0,127.7,N
+48465,Val Verde,Texas,116699.4,43.2,Y
+48467,Van Zandt,Texas,20.0,108.0,N
+48481,Wharton,Texas,265.0,67.5,N
+49001,Beaver,Utah,828.5,124.2,N
+49021,Iron,Utah,804.9,146.0,N
+49027,Millard,Utah,38.9,74.9,Y
+49045,Tooele,Utah,425.0,20.7,Y
+51037,Charlotte,Virginia,50.0,74.8,N
+51047,Culpeper,Virginia,491.8,26.3,Y
+51081,Greensville,Virginia,217.0,40.7,N
+51093,Isle of Wight,Virginia,1053.1,23.4,Y
+51107,Loudoun,Virginia,96.0,25.1,Y
+51175,Southampton,Virginia,455.4,37.8,Y
+51181,Surry,Virginia,900.3,26.2,Y
+51183,Sussex,Virginia,1390.2,22.0,N
+53039,Klickitat,Washington,480.0,54.0,Y
+53073,Whatcom,Washington,55.0,52.8,Y
+54077,Preston,West Virginia,41.2,33.3,N

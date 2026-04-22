@@ -1,64 +1,64 @@
 fips,county,state,acres,distance,covered,parent_group,sec_traceable,chain_depth,jurisdiction_count,state_actor,ownership_path
-05031,Craighead,Arkansas,160.0,106.2,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-06021,Glenn,California,47.5,61.8,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-06085,Santa Clara,California,61.2,56.9,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Flowers
-06107,Tulare,California,183.0,107.2,N,Syngenta / ChemChina / Sinochem,True,6,4,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Crop Protection
-06113,Yolo,California,150.0,29.4,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-08123,Weld,Colorado,80.0,47.6,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-08125,Yuma,Colorado,4259.5,125.7,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-12021,Collier,Florida,138.6,139.5,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-12071,Lee,Florida,145.0,93.4,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Flowers
-13217,Newton,Georgia,956.0,95.9,N,China State Construction Engineering Corp,False,3,2,True,SASAC → CSCEC → CSCEC-US Inc
-16027,Canyon,Idaho,146.9,38.1,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-17019,Champaign,Illinois,117.0,116.4,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-17037,De Kalb,Illinois,80.0,95.0,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-17191,Wayne,Illinois,156.8,76.3,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-18003,Allen,Indiana,195.0,61.8,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-19015,Boone,Iowa,562.0,10.1,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-20061,Geary,Kansas,97.5,11.2,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-20163,Rooks,Kansas,160.8,133.2,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-27027,Clay,Minnesota,31.0,84.7,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-27049,Goodhue,Minnesota,411.0,132.1,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds
-29061,Daviess,Missouri,2805.8,64.4,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-29075,Gentry,Missouri,3981.4,64.6,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-29115,Linn,Missouri,25.0,82.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-29129,Mercer,Missouri,13946.0,102.3,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-29171,Putnam,Missouri,8369.5,102.7,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-29211,Sullivan,Missouri,13471.6,104.8,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-37007,Anson,North Carolina,616.6,36.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37015,Bertie,North Carolina,420.4,65.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37017,Bladen,North Carolina,9831.2,51.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37037,Chatham,North Carolina,12.6,36.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37047,Columbus,North Carolina,360.4,42.7,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37049,Craven,North Carolina,81.5,19.8,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37051,Cumberland,North Carolina,247.5,20.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37061,Duplin,North Carolina,4908.4,27.7,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37065,Edgecombe,North Carolina,317.4,45.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37083,Halifax,North Carolina,764.8,66.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37085,Harnett,North Carolina,360.8,20.2,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown of Missouri
-37091,Hertford,North Carolina,1026.8,52.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37093,Hoke,North Carolina,463.2,12.6,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37103,Jones,North Carolina,1716.2,28.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37107,Lenoir,North Carolina,223.1,20.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37117,Martin,North Carolina,60.3,60.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37131,Northampton,North Carolina,2412.7,56.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37141,Pender,North Carolina,1288.0,36.8,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37153,Richmond,North Carolina,132.7,16.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37155,Robeson,North Carolina,4804.3,34.0,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37163,Sampson,North Carolina,9371.3,32.4,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Kansas City Sausage
-37165,Scotland,North Carolina,4096.4,13.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37177,Tyrrell,North Carolina,51.4,19.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-37185,Warren,North Carolina,695.4,71.8,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-40007,Beaver,Oklahoma,1450.0,145.3,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-40045,Ellis,Oklahoma,831.6,103.2,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-40059,Harper,Oklahoma,293.4,102.4,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-45033,Dillon,South Carolina,207.8,44.6,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-48179,Gray,Texas,1583.7,100.6,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-48393,Roberts,Texas,10.0,118.8,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-48465,Val Verde,Texas,116699.4,43.0,Y,Guanghui Group / Sun Guangxin,False,3,2,False,Sun Guangxin (Xinjiang) → Guanghui Group → Brazos Highland Properties LP
-49021,Iron,Utah,804.9,147.1,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-51081,Greensville,Virginia,217.0,40.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-51093,Isle of Wight,Virginia,1053.1,25.9,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-51175,Southampton,Virginia,455.4,37.6,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-51181,Surry,Virginia,900.3,15.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
-51183,Sussex,Virginia,1390.2,21.9,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (Hong Kong) → Smithfield Foods (VA) → Murphy Brown
+05031,Craighead,Arkansas,160.0,106.3,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+06021,Glenn,California,47.5,62.6,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+06085,Santa Clara,California,61.2,56.9,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Flowers
+06107,Tulare,California,183.0,67.5,Y,Syngenta / ChemChina / Sinochem,True,6,4,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta CP
+06113,Yolo,California,150.0,29.3,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+08123,Weld,Colorado,80.0,47.6,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+08125,Yuma,Colorado,4259.5,125.4,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+12021,Collier,Florida,138.6,139.0,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+12071,Lee,Florida,145.0,92.9,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Flowers
+13217,Newton,Georgia,956.0,94.0,N,China State Construction Engineering Corp,False,3,2,True,SASAC -> CSCEC -> CSCEC-US Inc
+16027,Canyon,Idaho,146.9,39.6,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+17019,Champaign,Illinois,117.0,115.4,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+17037,De Kalb,Illinois,80.0,95.6,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+17191,Wayne,Illinois,156.8,77.6,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+18003,Allen,Indiana,195.0,61.8,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+19015,Boone,Iowa,562.0,23.2,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+20061,Geary,Kansas,97.5,13.3,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+20163,Rooks,Kansas,160.8,134.4,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+27027,Clay,Minnesota,31.0,84.6,Y,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+27049,Goodhue,Minnesota,411.0,132.5,N,Syngenta / ChemChina / Sinochem,True,6,3,True,Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds
+29061,Daviess,Missouri,2805.8,64.5,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+29075,Gentry,Missouri,3981.4,64.5,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+29115,Linn,Missouri,25.0,82.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+29129,Mercer,Missouri,13946.0,91.5,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+29171,Putnam,Missouri,8369.5,94.5,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+29211,Sullivan,Missouri,13471.6,104.8,N,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+37007,Anson,North Carolina,616.6,35.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37015,Bertie,North Carolina,420.4,65.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37017,Bladen,North Carolina,9831.2,47.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37037,Chatham,North Carolina,12.6,41.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37047,Columbus,North Carolina,360.4,42.7,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37049,Craven,North Carolina,81.5,19.8,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37051,Cumberland,North Carolina,247.5,18.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37061,Duplin,North Carolina,4908.4,28.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37065,Edgecombe,North Carolina,317.4,44.1,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37083,Halifax,North Carolina,764.8,65.2,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37085,Harnett,North Carolina,360.8,23.6,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri
+37091,Hertford,North Carolina,1026.8,44.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37093,Hoke,North Carolina,463.2,8.3,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37103,Jones,North Carolina,1716.2,26.0,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37107,Lenoir,North Carolina,223.1,19.6,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37117,Martin,North Carolina,60.3,58.9,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37131,Northampton,North Carolina,2412.7,56.6,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37141,Pender,North Carolina,1288.0,21.0,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37153,Richmond,North Carolina,132.7,15.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37155,Robeson,North Carolina,4804.3,32.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37163,Sampson,North Carolina,9371.3,33.8,Y,Smithfield Foods / WH Group,True,4,4,True,WH Group (HK) -> Smithfield Foods (VA) -> Kansas City Sausage
+37165,Scotland,North Carolina,4096.4,13.1,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37177,Tyrrell,North Carolina,51.4,20.0,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+37185,Warren,North Carolina,695.4,72.1,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+40007,Beaver,Oklahoma,1450.0,145.2,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+40045,Ellis,Oklahoma,831.6,103.0,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+40059,Harper,Oklahoma,293.4,102.3,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+45033,Dillon,South Carolina,207.8,44.5,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+48179,Gray,Texas,1583.7,100.8,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+48393,Roberts,Texas,10.0,118.9,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+48465,Val Verde,Texas,116699.4,43.2,Y,Guanghui Group / Sun Guangxin,False,3,2,False,Sun Guangxin (Xinjiang) -> Guanghui Group -> Brazos Highland LP
+49021,Iron,Utah,804.9,146.0,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+51081,Greensville,Virginia,217.0,40.7,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+51093,Isle of Wight,Virginia,1053.1,23.4,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+51175,Southampton,Virginia,455.4,37.8,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+51181,Surry,Virginia,900.3,26.2,Y,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown
+51183,Sussex,Virginia,1390.2,22.0,N,Smithfield Foods / WH Group,True,4,3,True,WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown

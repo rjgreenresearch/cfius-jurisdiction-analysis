@@ -1,0 +1,5 @@
+Counties: 119 | Acreage: 275,232.3
+Regime 1: 0/119 counties (0.0%), 0.0 acres (0.0%)
+Regime 2: 43/119 counties (36.1%), 60,900.2 acres (22.1%)
+Regime 3: 47/119 counties (39.5%), 177,992.6 acres (64.7%)
+Regime 4: 61/119 counties (51.3%), 205,261.8 acres (74.6%)

@@ -34,21 +34,33 @@ except ImportError:
 
 
 # ===================================================================
-# CONFIGURATION — adjust paths to your environment
+# CONFIGURATION -- adjust paths to your environment
 # ===================================================================
 
 AFIDA_FILES = {
-    2018: "afida_current_holdings_yr2018.xlsx",
-    2019: "afida_current_holdings_yr2019.xlsx",
-    2020: "afida_current_holdings_yr2020.xlsx",
-    2021: "afida_current_holdings_yr2021.xlsx",
-    2022: "AFIDA_YR2022_Holdings_Data.xlsx",
-    2023: "AFIDA_YR2023_Holdings_Data.xlsx",
-    2024: "AFIDACurrentHoldingsYR2024.xlsx",
+    2018: "data/inputs/afida_current_holdings_yr2018.xlsx",
+    2019: "data/inputs/afida_current_holdings_yr2019.xlsx",
+    2020: "data/inputs/afida_current_holdings_yr2020.xlsx",
+    2021: "data/inputs/afida_current_holdings_yr2021.xlsx",
+    2022: "data/inputs/AFIDA YR2022 Holdings Data.xlsx",
+    2023: "data/inputs/AFIDA YR2023 Holdings Data.xlsx",
+    2024: "data/inputs/AFIDACurrentHoldingsYR2024.xlsx",
 }
 
-STATE_RESTRICTIONS = "state_restrictions.csv"
-OUTPUT_PANEL = "afida_state_year_panel.csv"
+# Try alternate filenames (spaces vs underscores)
+for year in list(AFIDA_FILES.keys()):
+    path = AFIDA_FILES[year]
+    if not os.path.exists(path):
+        alt = path.replace(" ", "_")
+        if os.path.exists(alt):
+            AFIDA_FILES[year] = alt
+        else:
+            alt2 = path.replace("_", " ")
+            if os.path.exists(alt2):
+                AFIDA_FILES[year] = alt2
+
+STATE_RESTRICTIONS = "data/outputs/state_restrictions.csv"
+OUTPUT_PANEL = "data/outputs/afida_state_year_panel.csv"
 
 
 def parse_afida_year(filepath: str):
@@ -146,7 +158,7 @@ def avg_metric(panel, states, years, metric):
 
 
 def run_did(panel, wave_states, control_states, pre_years, post_years):
-    """Run simple 2×2 DiD and event study."""
+    """Run simple 2x2 DiD and event study."""
     results = {}
 
     for metric, label in [("chinese_holdings", "Chinese Holdings"),
@@ -162,8 +174,8 @@ def run_did(panel, wave_states, control_states, pre_years, post_years):
             "ctrl_pre": c_pre, "ctrl_post": c_post, "did": did,
         }
         print(f"\n  {label}:")
-        print(f"    Treated: Pre={t_pre:.2f}, Post={t_post:.2f}, Δ={t_post-t_pre:+.2f}")
-        print(f"    Control: Pre={c_pre:.2f}, Post={c_post:.2f}, Δ={c_post-c_pre:+.2f}")
+        print(f"    Treated: Pre={t_pre:.2f}, Post={t_post:.2f}, ?={t_post-t_pre:+.2f}")
+        print(f"    Control: Pre={c_pre:.2f}, Post={c_post:.2f}, ?={c_post-c_pre:+.2f}")
         print(f"    DiD: {did:+.2f}")
 
     return results
@@ -180,7 +192,7 @@ def run_event_study(panel, wave_states, control_states, years, metric):
         if y == 2021:
             base_diff = diff
         rel = diff - base_diff if base_diff is not None else 0
-        marker = " ←" if y == 2023 else ""
+        marker = " ?" if y == 2023 else ""
         print(f"  {y:<6} {t:>10.2f} {c:>10.2f} {diff:>+10.2f} {rel:>+10.2f}{marker}")
 
 
@@ -188,7 +200,7 @@ def main():
     # Check inputs
     for path in AFIDA_FILES.values():
         if not os.path.exists(path):
-            print(f"WARNING: {path} not found — skipping")
+            print(f"WARNING: {path} not found -- skipping")
 
     restrictions = load_restrictions(STATE_RESTRICTIONS)
 
@@ -198,11 +210,23 @@ def main():
     for year, path in sorted(AFIDA_FILES.items()):
         if os.path.exists(path):
             print(f"Parsing {year}...", end=" ")
-            data = parse_afida_year(path)
-            afida_data[year] = data
-            years.append(year)
-            ch = sum(d["chinese_holdings"] for d in data.values())
-            print(f"{sum(d['total_holdings'] for d in data.values())} total, {ch} Chinese")
+            try:
+                data = parse_afida_year(path)
+                afida_data[year] = data
+                years.append(year)
+                ch = sum(d["chinese_holdings"] for d in data.values())
+                print(f"{sum(d['total_holdings'] for d in data.values())} total, {ch} Chinese")
+            except Exception as e:
+                print(f"SKIPPED ({type(e).__name__}: {e})")
+        else:
+            print(f"Skipping {year}: {path} not found")
+
+    if len(years) < 3:
+        print(f"\nWARNING: Only {len(years)} years loaded ({years}). "
+              f"DiD requires at least 3 years for pre/post comparison.")
+        print("Check that AFIDA Excel files are valid .xlsx format.")
+        if len(years) == 0:
+            sys.exit(1)
 
     # Build panel
     panel_list = build_panel(afida_data, restrictions, years)

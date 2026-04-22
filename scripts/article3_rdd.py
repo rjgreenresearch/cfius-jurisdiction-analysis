@@ -91,8 +91,8 @@ def cumulative_coverage(dists: np.ndarray, acres: np.ndarray, thresholds):
 
 
 def main():
-    input_csv = "cfius_jurisdiction_analysis.csv"
-    output_csv = "cfius_distance_distribution.csv"
+    input_csv = "data/outputs/cfius_jurisdiction_analysis.csv"
+    output_csv = "data/outputs/cfius_distance_distribution.csv"
 
     distances = load_distances(input_csv)
     if not distances:
@@ -103,7 +103,7 @@ def main():
     acres = np.array([d["acres"] for d in distances])
 
     print(f"Holdings: {len(dists)}")
-    print(f"Range: {dists.min():.1f} – {dists.max():.1f} miles")
+    print(f"Range: {dists.min():.1f} - {dists.max():.1f} miles")
     print(f"Mean: {dists.mean():.1f}, Median: {np.median(dists):.1f}")
 
     # Density tests
@@ -113,11 +113,11 @@ def main():
 
     for t in [25, 50, 75, 100, 125]:
         r = density_test(dists, t)
-        marker = " ← CFIUS THRESHOLD" if t == 100 else ""
+        marker = " <- CFIUS THRESHOLD" if t == 100 else ""
         sig = "***" if r["significant_5pct"] else ("*" if r["significant_10pct"] else "")
         print(f"\n  {t} miles{marker}:")
-        print(f"    ±15 mi window: {r['below']} below, {r['above']} above (ratio {r['ratio']:.2f})")
-        print(f"    ±5 mi near-boundary: {r['near_below']} below, {r['near_above']} above")
+        print(f"    ?15 mi window: {r['below']} below, {r['above']} above (ratio {r['ratio']:.2f})")
+        print(f"    ?5 mi near-boundary: {r['near_below']} below, {r['near_above']} above")
         print(f"    z = {r['z']:.2f} {sig}")
 
     # Cumulative coverage
@@ -125,7 +125,7 @@ def main():
     print("CUMULATIVE COVERAGE (distance to ANY Appendix A site)")
     print(f"{'='*60}")
     for c in cumulative_coverage(dists, acres, [1, 10, 25, 50, 75, 100, 125, 150]):
-        print(f"  ≤ {c['threshold']:>3} mi: {c['counties']:>3}/{c['total']} "
+        print(f"  <= {c['threshold']:>3} mi: {c['counties']:>3}/{c['total']} "
               f"({c['county_rate']*100:>5.1f}%), {c['acreage']:>10,.0f} acres "
               f"({c['acreage_rate']*100:>5.1f}%)")
 
@@ -136,7 +136,7 @@ def main():
     print(f"\n  CLASSIFICATION GAP: {gap} counties within 100 mi of Part 1 sites")
     print(f"  but outside jurisdiction (Part 1 = 1-mile threshold)")
     print(f"  Reclassification would increase coverage: "
-          f"{actual_covered/len(dists)*100:.1f}% → {within_100/len(dists)*100:.1f}%")
+          f"{actual_covered/len(dists)*100:.1f}% -> {within_100/len(dists)*100:.1f}%")
 
     # Save distance distribution
     with open(output_csv, "w", newline="") as f:

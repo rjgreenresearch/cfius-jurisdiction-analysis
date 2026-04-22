@@ -1,231 +1,228 @@
-site_name,location,current_part,threshold_miles,regime_added,latitude,longitude,conus,mirta_match,match_score
-Adelphi Laboratory Center,"Adelphi, MD",1,1,2020,39.033326,-76.95647,Y,US Army Adelphi Laboratory Center,0.862
-Air Force Maui Optical and Supercomputing Site,"Maui, HI",1,1,2020,20.746482,-156.431307,N,Remote Maui Experimental Site,1.0
-Air Force Office of Scientific Research,"Arlington, VA",1,1,2020,38.8803,-77.1066,Y,MANUAL_COORDS,1.0
-Andersen Air Force Base,"Yigo, Guam",1,1,2020,13.595739,144.907614,N,Andersen Air Force Base,1.0
-Anniston Army Depot,"Anniston, AL",1,1,2024,33.7208,-85.8497,Y,MANUAL_COORDS,1.0
-Army Futures Command,"Austin, TX",1,1,2020,30.3891,-97.7244,Y,MANUAL_COORDS,1.0
-Army Research Lab—Orlando Simulations and Training Technology Center,"Orlando, FL",1,1,2020,28.5861,-81.1975,Y,MANUAL_COORDS,1.0
-Army Research Office,"Durham, NC",1,1,2020,62.404429,-145.141701,Y,Haarp Research Station,0.619
-Barter Island Regional Radar Site,"Barter Island, AK",1,1,2024,70.134,-143.6577,N,MANUAL_COORDS,1.0
-Beale Air Force Base,"Yuba City, CA",1,1,2020,39.128338,-121.408689,Y,Beale AFB,1.0
-Biometric Technology Center (Defense Forensics and Biometrics Agency),"Clarksburg, WV",1,1,2020,39.3252,-80.2635,Y,MANUAL_COORDS,1.0
-Blue Grass Army Depot,"Richmond, KY",1,1,2024,37.7019,-84.2177,Y,MANUAL_COORDS,1.0
-Buckley Space Force Base,"Aurora, CO",1,1,2020,39.706747,-104.761808,Y,Buckley Space Force Base,1.0
-Camp Blaz,"Dededo, Guam",1,1,2024,13.587035,144.835854,N,Camp Blas,0.889
-Camp Mackall,"Southern Pines, NC",1,1,2020,35.033411,-79.464054,Y,Camp Mackall,1.0
-Camp Navajo,"Bellemont, AZ",1,1,2024,35.225932,-111.851966,Y,NG Camp Navajo,0.88
-Camp Roberts,"San Miguel, CA",1,1,2024,35.7601,-120.7454,Y,MANUAL_COORDS,1.0
-Cape Newenham Long Range Radar Site,"Cape Newenham, AK",1,1,2020,58.645411,-162.07065,N,Cape Newenham Long Range Radar Site,1.0
-Cavalier Space Force Station,"Cavalier, ND",1,1,2020,48.72591,-97.903403,Y,Cavalier Space Force Station,1.0
-Cheyenne Mountain Space Force Station,"Colorado Springs, CO",1,1,2020,38.739828,-104.839868,Y,Cheyenne Mountain Space Force Station,1.0
-Clear Space Force Station,"Anderson, AK",1,1,2020,64.284572,-149.238732,N,Clear Space Force Station,1.0
-Cold Bay Regional Radar Site,"Cold Bay, AK",1,1,2024,55.205,-162.7225,N,MANUAL_COORDS,1.0
-Combat Capabilities Development Command Soldier Center,"Natick, MA",1,1,2020,42.288689,-71.362814,Y,US Army Soldier Systems Center Natick,0.896
-Creech Air Force Base,"Indian Springs, NV",1,1,2020,36.578566,-115.67273,Y,Creech AFB,1.0
-Davis-Monthan Air Force Base,"Tucson, AZ",1,1,2020,32.166544,-110.865501,Y,Davis Monthan AFB,1.0
-Defense Advanced Research Projects Agency,"Arlington, VA",1,1,2020,38.8803,-77.1066,Y,MANUAL_COORDS,1.0
-Detroit Arsenal,"Warren, MI",1,1,2024,42.496338,-83.04363,Y,Detroit Arsenal,1.0
-Eareckson Air Station,"Shemya, AK",1,1,2020,42.943235,-71.636941,N,New Boston Air Station,0.744
-Eielson Air Force Base,"Fairbanks, AK",1,1,2020,64.68777,-147.07586,N,Eielson AFB,1.0
-Ellington Field Joint Reserve Base,"Houston, TX",1,1,2020,29.61542,-95.171639,Y,Ellington Field,0.612
-Fairchild Air Force Base,"Spokane, WA",1,1,2020,47.617174,-117.648318,Y,Fairchild AFB,1.0
-Fort Belvoir,"Fairfax County, VA",1,1,2020,38.700683,-77.157457,Y,Fort Belvoir,1.0
-Fort Bliss,"El Paso, TX",1,1,2020,32.178988,-106.052398,Y,Fort Bliss,1.0
-Fort Campbell,"Hopkinsville, KY and Clarksville, TN",1,1,2020,36.605289,-87.609765,Y,Fort Campbell,1.0
-Fort Carson,"Colorado Springs, CO",1,1,2020,38.642409,-104.849266,Y,Fort Carson,1.0
-Fort Cavazos,"Killeen, TX",1,1,2020,31.212499,-97.64792,Y,Fort Cavazos,1.0
-Fort Detrick,"Frederick, MD",1,1,2020,39.443335,-77.42802,Y,Fort Detrick,1.0
-Fort Drum,"Watertown, NY",1,1,2020,44.102295,-75.59751,Y,Fort Drum,1.0
-Fort Eisenhower,"Augusta, GA",1,1,2020,33.381735,-82.198873,Y,Fort Eisenhower,1.0
-Fort Gregg-Adams,"Petersburg, VA",1,1,2020,37.232347,-77.33697,Y,Fort Gregg-Adams,1.0
-Fort Knox,"Elizabethtown, KY",1,1,2020,37.908233,-85.916972,Y,Fort Knox,1.0
-Fort Leavenworth,"Leavenworth County, KS",1,1,2020,39.362001,-94.914452,Y,Fort Leavenworth,1.0
-Fort Leonard Wood,"Pulaski County, MO",1,1,2020,37.722495,-92.142456,Y,Fort Leonard Wood,1.0
-Fort Meade,"Anne Arundel County, MD",1,1,2020,32.409717,-84.856909,Y,Fort Moore,0.7
-Fort Moore,"Columbus, GA",1,1,2020,32.409717,-84.856909,Y,Fort Moore,1.0
-Fort Riley,"Junction City, KS",1,1,2020,39.145123,-96.850683,Y,Fort Riley,1.0
-Fort Shafter,"Honolulu, HI",1,1,2020,21.339428,-157.889225,N,Fort Shafter,1.0
-Fort Sill,"Lawton, OK",1,1,2020,34.689443,-98.494557,Y,Fort Sill,1.0
-Fort Stewart,"Hinesville, GA",1,1,2020,31.999678,-81.60793,Y,Fort Stewart,1.0
-Fort Yukon Long Range Radar Site,"Fort Yukon, AK",1,1,2020,66.560312,-145.205308,N,Fort Yukon Long Range Radar Site,1.0
-Francis E. Warren Air Force Base,"Cheyenne, WY",1,1,2020,41.165346,-104.86509,Y,F E Warren AFB,0.8
-Guam Tracking Station,"Inarajan, Guam",1,1,2020,13.3733,144.6897,N,MANUAL_COORDS,1.0
-Hanscom Air Force Base,"Lexington, MA",1,1,2020,42.457788,-71.275684,Y,Hanscom AFB,1.0
-Hawthorne Army Depot,"Hawthorne, NV",1,1,2024,38.5175,-118.6102,Y,MANUAL_COORDS,1.0
-Holloman Air Force Base,"Alamogordo, NM",1,1,2020,32.887842,-106.122934,Y,Holloman AFB,1.0
-Holston Army Ammunition Plant,"Kingsport, TN",1,1,2020,38.454612,-85.603359,Y,Indiana Army Ammunition Plant,0.793
-Indian Mountain Regional Radar Site,"Indian Mountain, AK",1,1,2024,45.085095,-83.571148,N,Alpena County Regional Airport,0.615
-Iowa Army Ammunition Plant,"Middletown, IA",1,1,2024,40.8303,-91.1118,Y,MANUAL_COORDS,1.0
-Joint Base Anacostia-Bolling,"Washington, DC",1,1,2020,38.8415,-77.0128,Y,MANUAL_COORDS,1.0
-Joint Base Andrews,"Camp Springs, MD",1,1,2020,38.804008,-76.873444,Y,JB Andrews,0.714
-Joint Base Elmendorf-Richardson,"Anchorage, AK",1,1,2020,32.952743,-79.962738,N,Joint Base Charleston,0.692
-Joint Base Langley-Eustis,"Hampton, VA and Newport News, VA",1,1,2020,32.952743,-79.962738,Y,Joint Base Charleston,0.696
-Joint Base Lewis-McChord,"Tacoma, WA",1,1,2020,46.855763,-120.254022,Y,Fort Lewis,1.0
-Joint Base McGuire-Dix-Lakehurst,"Lakehurst, NJ",1,1,2020,40.009128,-74.522676,Y,Dix,1.0
-Joint Base Myer-Henderson Hall,"Arlington, VA",1,1,2024,38.8765,-77.0808,Y,MANUAL_COORDS,1.0
-Joint Base Pearl Harbor-Hickam,"Honolulu, HI",1,1,2020,21.372015,-157.981521,N,JBPHH Pearl Harbor HI,0.706
-Joint Expeditionary Base Little Creek-Fort Story,"Virginia Beach, VA",1,1,2020,36.915601,-76.184126,Y,JNTEXPBASE Little Creek FS VA,0.675
-Joint Systems Manufacturing Center—Lima,"Lima, OH",1,1,2024,40.7157,-83.9932,Y,MANUAL_COORDS,1.0
-Kaena Point Satellite Tracking Station,"Waianae, HI",1,1,2020,21.561665,-158.240427,N,Kaena Point Space Force Station,0.984
-Kenai Regional Radar Site,"Kenai, AK",1,1,2024,41.163133,-104.819288,N,Cheyenne Regional Airport,0.6
-King Salmon Air Force Station,"King Salmon, AK",1,1,2020,38.89305,-123.544074,N,Point Arena Air Force Station,0.793
-Kirtland Air Force Base,"Albuquerque, NM",1,1,2020,35.034734,-106.528222,Y,Kirtland,0.8
-Kodiak Tracking Station,"Kodiak Island, AK",1,1,2020,57.822062,-152.331657,N,Kodiak AK,1.0
-Kotzebue Regional Radar Site,"Kotzebue, AK",1,1,2024,66.8784,-162.605,N,MANUAL_COORDS,1.0
-Lake City Army Ammunition Plant,"Independence, MO",1,1,2024,39.0503,-94.3789,Y,MANUAL_COORDS,1.0
-Letterkenny Army Depot,"Chambersburg, PA",1,1,2024,39.9561,-77.668,Y,MANUAL_COORDS,1.0
-Lisburne Regional Radar Site,"Cape Lisburne, AK",1,1,2024,68.8752,-166.11,N,MANUAL_COORDS,1.0
-Los Angeles Air Force Base,"El Segundo, CA",1,1,2020,33.91887,-118.380605,Y,Los Angeles AFB,1.0
-MacDill Air Force Base,"Tampa, FL",1,1,2020,27.849641,-82.506272,Y,MacDill AFB,1.0
-Marine Corps Air Ground Combat Center Twentynine Palms,"Twentynine Palms, CA",1,1,2020,34.43538,-116.279365,Y,Twentynine Palms,1.0
-Marine Corps Air Station Beaufort,"Beaufort, SC",1,1,2020,42.943235,-71.636941,Y,New Boston Air Station,0.618
-Marine Corps Air Station Cherry Point,"Cherry Point, NC",1,1,2020,34.9009,-76.8806,Y,MANUAL_COORDS,1.0
-Marine Corps Air Station Miramar,"San Diego, CA",1,1,2020,42.943235,-71.636941,Y,New Boston Air Station,0.63
-Marine Corps Air Station New River,"Jacksonville, NC",1,1,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.636
-Marine Corps Air Station Yuma,"Yuma, AZ",1,1,2020,42.943235,-71.636941,Y,New Boston Air Station,0.667
-Marine Corps Base Camp Lejeune,"Jacksonville, NC",1,1,2020,33.321865,-117.426582,Y,Marine Corps Base Camp Pendleton,0.839
-Marine Corps Base Camp Pendleton,"Oceanside, CA",1,1,2020,33.321865,-117.426582,Y,Marine Corps Base Camp Pendleton,1.0
-Marine Corps Base Hawaii,"Kaneohe Bay, HI",1,1,2020,21.4505,-157.7498,N,MANUAL_COORDS,1.0
-"Marine Corps Base Hawaii, Camp H.M. Smith","Halawa, HI",1,1,2020,33.321865,-117.426582,N,Marine Corps Base Camp Pendleton,0.658
-Marine Corps Base Quantico,"Quantico, VA",1,1,2020,33.321865,-117.426582,Y,Marine Corps Base Camp Pendleton,0.759
-Marine Corps Logistics Base Albany,"Albany, GA",1,1,2024,31.5399,-84.0621,Y,MANUAL_COORDS,1.0
-Marine Corps Logistics Base Barstow,"Barstow, CA",1,1,2024,34.8694,-116.9561,Y,MANUAL_COORDS,1.0
-Marine Corps Support Facility Blount Island,"Jacksonville, FL",1,1,2024,30.406,-81.5325,Y,MANUAL_COORDS,1.0
-Mark Center,"Alexandria, VA",1,1,2020,38.830207,-77.115568,Y,Mark Center,1.0
-McAlester Army Ammunition Plant,"McAlester, OK",1,1,2024,34.822,-95.9219,Y,MANUAL_COORDS,1.0
-Military Ocean Terminal Concord,"Concord, CA",1,1,2024,38.0038,-122.0609,Y,MANUAL_COORDS,1.0
-Military Ocean Terminal Sunny Point,"Brunswick County, NC",1,1,2024,33.9606,-78.0066,Y,MANUAL_COORDS,1.0
-Minot Air Force Base,"Minot, ND",1,1,2020,48.427158,-101.340497,Y,Minot AFB,1.0
-Naval Air Station Corpus Christi,"Corpus Christi, TX",1,1,2024,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.719
-Naval Air Station Joint Reserve Base New Orleans,"Belle Chasse, LA",1,1,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.6
-Naval Air Station Oceana,"Virginia Beach, VA",1,1,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.714
-Naval Air Station Oceana Dam Neck Annex,"Virginia Beach, VA",1,1,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.62
-Naval Air Station Whidbey Island,"Oak Harbor, WA",1,1,2020,48.331882,-122.654266,Y,NAS Whidbey Island WA,0.679
-Naval Base Guam,"Apra Harbor, Guam",1,1,2020,13.431908,144.652984,N,NAVBASE Guam,0.889
-Naval Base Kitsap Bangor,"Silverdale, WA",1,1,2020,47.726751,-122.723584,Y,Naval Base Kitsap Bangor,1.0
-Naval Base Point Loma,"San Diego, CA",1,1,2020,32.694041,-117.248991,Y,NAVBASE Point Loma,0.923
-Naval Base San Diego,"San Diego, CA",1,1,2020,32.674841,-117.119681,Y,NAVBASE San Diego CA,0.85
-Naval Base Ventura County—Port Hueneme Operating Facility,"Port Hueneme, CA",1,1,2020,34.110016,-119.095566,Y,NAVBASE Ventura Cty Point Mugu CA,0.6
-Naval Logistics Support Activity Ketchikan,"Ketchikan, AK",1,1,2024,38.836187,-86.815691,N,Naval Support Activity Crane,0.743
-Naval Logistics Support Activity LaMoure,"LaMoure, ND",1,1,2024,28.582875,-81.198717,Y,Naval Support Activity Orlando,0.743
-Naval Logistics Support Annex Orlando,"Okahumpka, FL",1,1,2024,28.582875,-81.198717,Y,Naval Support Activity Orlando,0.687
-Naval Logistics Support Facility Aguada,"Aguada, Puerto Rico",1,1,2024,38.873503,-76.995207,N,Naval Support Activity Wash,0.667
-Naval Logistics Support Facility Cutler,"Cutler, ME",1,1,2024,38.836187,-86.815691,Y,Naval Support Activity Crane,0.687
-Naval Research Laboratory,"Washington, DC",1,1,2020,38.822054,-77.018709,Y,Naval Research Lab,0.837
-Naval Research Laboratory—Blossom Point,"Welcome, MD",1,1,2020,38.822054,-77.018709,Y,Naval Research Lab,0.632
-Naval Research Laboratory—Stennis Space Center,"Hancock County, MS",1,1,2020,30.3555,-89.63579,Y,Stennis Space Center,0.606
-Naval Research Laboratory—Tilghman,"Tilghman, MD",1,1,2020,38.822054,-77.018709,Y,Naval Research Lab,0.692
-Naval Station Newport,"Newport, RI",1,1,2020,41.523343,-71.319766,Y,Naval Station Newport RI,0.933
-Naval Station Norfolk,"Norfolk, VA",1,1,2020,41.523343,-71.319766,Y,Naval Station Newport RI,0.756
-Naval Submarine Base Kings Bay,"Kings Bay, GA",1,1,2020,30.804049,-81.527039,Y,Subase Kings Bay GA,0.653
-Naval Submarine Base New London,"Groton, CT",1,1,2020,41.397405,-72.089843,Y,NAVSUBASE New London CT,0.741
-Naval Suffolk Facility,"Suffolk, VA",1,1,2024,38.873503,-76.995207,Y,Naval Support Activity Wash,0.653
-Naval Support Activity Crane,"Crane, IN",1,1,2020,38.836187,-86.815691,Y,Naval Support Activity Crane,1.0
-Naval Support Activity Orlando,"Orlando, FL",1,1,2020,28.582875,-81.198717,Y,Naval Support Activity Orlando,1.0
-Naval Support Activity Panama City,"Panama City, FL",1,1,2020,30.174299,-85.750662,Y,Naval Support Activity Panama City,1.0
-Naval Support Activity Philadelphia,"Philadelphia, PA",1,1,2020,28.582875,-81.198717,Y,Naval Support Activity Orlando,0.8
-Naval Support Facility Carderock,"Bethesda, MD",1,1,2020,38.836187,-86.815691,Y,Naval Support Activity Crane,0.8
-Naval Support Facility Dahlgren,"Dahlgren, VA",1,1,2020,38.873503,-76.995207,Y,Naval Support Activity Wash,0.793
-Naval Support Facility Indian Head,"Indian Head, MD",1,1,2020,38.836187,-86.815691,Y,Naval Support Activity Crane,0.774
-Naval Surface Warfare Center Carderock Division—Acoustic Research Detachment,"Bayview, ID",1,1,2020,47.978201,-116.561063,Y,Bayview Idaho,1.0
-Naval Weapons Station Seal Beach Detachment Norco,"Norco, CA",1,1,2020,33.9372,-117.5711,Y,MANUAL_COORDS,1.0
-New Boston Air Station,"New Boston, NH",1,1,2020,42.943235,-71.636941,Y,New Boston Air Station,1.0
-Offutt Air Force Base,"Bellevue, NE",1,1,2020,41.113247,-95.907035,Y,Offut AFB,0.947
-Oliktok Long Range Radar Site,"Oliktok, AK",1,1,2020,70.500301,-149.880613,N,Oliktok Long Range Radar Site,1.0
-Orchard Combat Training Center,"Boise, ID",1,1,2020,43.260208,-116.140371,Y,NG Orchard Combat Training Center,0.952
-Peason Ridge Training Area,"Leesville, LA",1,1,2020,19.864659,-155.666092,Y,Pohakuloa Training Area,0.694
-Pentagon,"Arlington, VA",1,1,2020,38.870298,-77.058245,Y,Pentagon Building Site,1.0
-Peterson Space Force Base,"Colorado Springs, CO",1,1,2020,38.827879,-104.705493,Y,Peterson Space Force Base,1.0
-Picatinny Arsenal,"Morris County, NJ",1,1,2020,40.92573,-74.581302,Y,Picatinny Arsenal,1.0
-Pine Bluff Arsenal,"White Hall, AR",1,1,2024,34.32142,-92.087972,Y,Pine Bluff Arsenal,1.0
-Pinon Canyon Maneuver Site,"Tyrone, CO",1,1,2020,37.449542,-103.890981,Y,Pinon Canyon,0.632
-Pohakuloa Training Area,"Hilo, HI",1,1,2020,19.864659,-155.666092,N,Pohakuloa Training Area,1.0
-Point Barrow Long Range Radar Site,"Point Barrow, AK",1,1,2020,71.329837,-156.630184,N,Point Barrow Long Range Radar Site,1.0
-Portsmouth Naval Shipyard,"Kittery, ME",1,1,2020,43.081006,-70.732562,Y,NSY Portsmouth,1.0
-Pueblo Chemical Depot,"Pueblo, CO",1,1,2024,38.2697,-104.4528,Y,MANUAL_COORDS,1.0
-Radford Army Ammunition Plant,"Radford, VA",1,1,2020,38.454612,-85.603359,Y,Indiana Army Ammunition Plant,0.793
-Red River Army Depot,"Texarkana, TX",1,1,2024,33.4461,-94.2988,Y,MANUAL_COORDS,1.0
-Rock Island Arsenal,"Rock Island, IL",1,1,2020,41.51676,-90.542328,Y,Rock Island Arsenal,1.0
-Romanzof Regional Radar Site,"Romanzof, AK",1,1,2024,61.7817,-166.0975,N,MANUAL_COORDS,1.0
-Rome Research Laboratory,"Rome, NY",1,1,2020,43.220844,-75.410628,Y,Rome Laboratory,0.769
-Scott Air Force Base,"St. Clair County, IL",1,1,2024,38.537849,-89.83018,Y,Scott AFB,1.0
-Scranton Army Ammunition Plant,"Scranton, PA",1,1,2024,41.3876,-75.6229,Y,MANUAL_COORDS,1.0
-Seymour Johnson Air Force Base,"Goldsboro, NC",1,1,2020,35.335476,-77.980142,Y,Seymour Johnson AFB,1.0
-Shaw Air Force Base,"Sumter, SC",1,1,2020,33.980578,-80.469846,Y,Shaw AFB,1.0
-Southeast Alaska Acoustic Measurement Facility,"Ketchikan, AK",1,1,2020,55.541383,-131.761971,N,Back Island AK,1.0
-Sparrevohn Regional Radar Site,"Sparrevohn, AK",1,1,2024,71.329837,-156.630184,N,Point Barrow Long Range Radar Site,0.625
-Tatalina Regional Radar Site,"Tatalina, AK",1,1,2024,62.8944,-155.9683,N,MANUAL_COORDS,1.0
-Tin City Long Range Radar Site,"Tin City, AK",1,1,2020,65.562097,-167.961981,N,Tin City Long Range Radar Site,1.0
-Tooele Army Depot,"Tooele, UT",1,1,2024,40.5131,-112.3875,Y,MANUAL_COORDS,1.0
-Travis Air Force Base,"Fairfield, CA",1,1,2020,38.26176,-121.935433,Y,Travis AFB,1.0
-Tyndall Air Force Base,"Bay County, FL",1,1,2020,30.075259,-85.574328,Y,Tyndall AFB,1.0
-Watervliet Arsenal,"Watervliet, NY",1,1,2020,42.71886,-73.707012,Y,Watervliet Arsenal,1.0
-Aberdeen Proving Ground,"Aberdeen, MD",2,100,2020,39.448769,-76.203618,Y,Aberdeen Proving Ground,1.0
-Air Force Plant 42,"Palmdale, CA",2,100,2020,34.62595,-118.085627,Y,Air Force Plant 42,1.0
-Altus Air Force Base,"Altus, OK",2,100,2024,34.654039,-99.287126,Y,Altus AFB,1.0
-Arnold Air Force Base,"Coffee County and Franklin County, TN",2,100,2020_moved_2024,35.333088,-86.070703,Y,Arnold,0.75
-Barksdale Air Force Base,"Bossier City, LA",2,100,2024,32.510528,-93.640055,Y,Barksdale AFB,1.0
-Camp Dodge,"Johnston, IA",2,100,2024,41.906298,-93.841418,Y,NG Camp Dodge Johnston TS,1.0
-Camp Grayling,"Grayling, MI",2,100,2024,44.6614,-84.7282,Y,MANUAL_COORDS,1.0
-Camp Shelby,"Hattiesburg, MS",2,100,2020,31.044134,-88.986253,Y,NG MTA Camp Shelby,0.759
-Camp Williams,"Bluffdale, UT",2,100,2024,40.4398,-111.9282,Y,MANUAL_COORDS,1.0
-Cannon Air Force Base,"Clovis, NM",2,100,2024,34.38727,-103.317774,Y,Cannon AFB,1.0
-Cape Canaveral Space Force Station,"Cape Canaveral, FL",2,100,2020,28.473145,-80.581522,Y,Cape Canaveral Space Force Station,1.0
-Chocolate Mountain Aerial Gunnery Range,"Niland, CA",2,100,2024,33.0247,-115.5456,Y,MANUAL_COORDS,1.0
-Columbus Air Force Base,"Columbus, MS",2,100,2024,33.63947,-88.445335,Y,Columbus AFB,1.0
-Dare County Range,"Manns Harbor, NC",2,100,2020,35.722159,-75.890413,Y,Dare County Range,1.0
-Dover Air Force Base,"Delmarva, DE",2,100,2024,39.129231,-75.462649,Y,Dover AFB,1.0
-Dyess Air Force Base,"Abilene, TX",2,100,2023,32.423261,-99.844039,Y,Dyess AFB,1.0
-Edwards Air Force Base,"Edwards, CA",2,100,2023,34.876442,-117.847271,Y,Edwards AFB,1.0
-Eglin Air Force Base,"Valparaiso, FL",2,100,2020,29.357568,-100.788133,Y,Laughlin AFB,0.762
-Ellsworth Air Force Base,"Box Elder, SD",2,100,2023,44.156141,-103.093013,Y,Ellsworth AFB,1.0
-Fallon Range Complex,"Fallon, NV",2,100,2020,39.4163,-118.7001,Y,MANUAL_COORDS,1.0
-Fort Greely,"Delta Junction, AK",2,100,2020,63.987312,-145.715735,N,Fort Greely,1.0
-Fort Huachuca,"Sierra Vista, AZ",2,100,2023,31.503455,-110.370883,Y,Fort Huachuca,1.0
-Fort Irwin,"San Bernardino County, CA",2,100,2020,35.242927,-116.502377,Y,NTC and Fort Irwin,0.714
-Fort Johnson,"Vernon Parish, LA",2,100,2020,31.245338,-93.201038,Y,Fort Johnson,1.0
-Fort Liberty,"Fayetteville, NC",2,100,2020,35.182924,-79.145244,Y,Fort Liberty,1.0
-Fort Novosel,"Dale County, AL",2,100,2024,31.392401,-85.742832,Y,Fort Novosel AL,0.889
-Fort Wainwright,"Fairbanks, AK",2,100,2020,64.594324,-147.821671,N,Fort Wainwright,1.0
-Goodfellow Air Force Base,"San Angelo, TX",2,100,2024,31.433522,-100.411609,Y,Goodfellow AFB,1.0
-Grand Forks Air Force Base,"Grand Forks, ND",2,100,2023,47.958978,-97.385332,Y,Grand Forks AFB,1.0
-Hardwood Range,"Necedah, WI",2,100,2020,44.240102,-90.061251,Y,Hardwood Weapons Range (ANG),0.667
-Hill Air Force Base,"Ogden, UT",2,100,2020,41.140243,-111.999267,Y,Hill AFB,1.0
-Joint Base Cape Cod,"Sandwich, MA",2,100,2024,32.952743,-79.962738,Y,Joint Base Charleston,0.75
-Joint Base Charleston,"North Charleston, SC",2,100,2024,32.952743,-79.962738,Y,Joint Base Charleston,1.0
-Joint Base San Antonio,"San Antonio, TX",2,100,2020_moved_2024,29.3842,-98.5811,Y,MANUAL_COORDS,1.0
-Laughlin Air Force Base,"Del Rio, TX",2,100,2023,29.357568,-100.788133,Y,Laughlin AFB,1.0
-Little Rock Air Force Base,"Little Rock, AR",2,100,2024,34.90336,-92.136905,Y,Little Rock AFB,1.0
-Luke Air Force Base,"Glendale, AZ",2,100,2023,33.533641,-112.370518,Y,Luke AFB,1.0
-Malmstrom Air Force Base,"Great Falls, MT",2,100,2020_moved_2024,47.507407,-111.188153,Y,Malmstrom AFB,1.0
-Maxwell-Gunter Air Force Base,"Montgomery, AL",2,100,2024,32.409531,-86.243639,Y,Maxwell AFB Gunter Annex,0.762
-Moody Air Force Base,"Valdosta, GA",2,100,2020_moved_2024,30.970968,-83.186762,Y,Moody AFB,1.0
-Mountain Home Air Force Base,"Mountain Home, ID",2,100,2020,43.048746,-115.86012,Y,Mountain Home AFB,1.0
-Muscatatuck Urban Training Center,"Butlerville, IN",2,100,2024,39.045758,-85.534697,Y,NG Muscatatuck Urban Training Center,0.957
-Naval Air Station Meridian,"Meridian, MS",2,100,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,0.69
-Naval Air Station Patuxent River,"Lexington Park, MD",2,100,2020,38.283954,-76.422294,Y,Naval Air Station Patuxent River,1.0
-Naval Air Weapons Station China Lake,"Ridgecrest, CA",2,100,2020,37.247084,-76.579352,Y,Naval Weapons Station Yorktown,0.697
-Naval Base Kitsap—Keyport,"Keyport, WA",2,100,2020,47.697992,-122.621926,Y,Naval Base Kitsap - Keyport,0.962
-Naval Base Ventura County—Point Mugu Operating Facility,"Point Mugu, CA",2,100,2020,34.110016,-119.095566,Y,NAVBASE Ventura Cty Point Mugu CA,0.727
-Naval Weapons Systems Training Facility Boardman,"Boardman, OR",2,100,2020,45.732368,-119.701026,Y,NAVWPNSYSTRAFAC Boardman,0.667
-Nellis Air Force Base,"Las Vegas, NV",2,100,2020,36.241132,-115.023526,Y,Nellis,0.75
-Nevada Test and Training Range,"Tonopah, NV",2,100,2020,40.584304,-113.84088,Y,Utah Test and Training Range South UT,0.746
-Pacific Missile Range Facility,"Kekaha, HI",2,100,2020,22.035462,-159.778663,N,CNIC PMRF Barking Sands HI,1.0
-Patrick Space Force Base,"Cocoa Beach, FL",2,100,2020,28.239934,-80.613165,Y,Patrick Space Force Base,1.0
-Redstone Arsenal,"Huntsville, AL",2,100,2020_moved_2024,34.581349,-86.655839,Y,Redstone Arsenal,1.0
-Schriever Space Force Base,"Colorado Springs, CO",2,100,2020_moved_2024,38.809776,-104.537302,Y,Schriever Space Force Base,1.0
-Tinker Air Force Base,"Midwest City, OK",2,100,2020_moved_2024,35.416533,-97.388791,Y,Tinker AFB,1.0
-Townsend Bombing Range,"McIntosh County, GA",2,100,2024,31.5747,-81.3536,Y,MANUAL_COORDS,1.0
-Tropic Regions Test Center,"Wahiawa, HI",2,100,2020,21.5067,-158.0031,N,MANUAL_COORDS,1.0
-Utah Test and Training Range,"Barro, UT",2,100,2020,40.584304,-113.84088,Y,Utah Test and Training Range South UT,0.862
-Vance Air Force Base,"Enid, OK",2,100,2024,36.341605,-97.908229,Y,Vance AFB,1.0
-Vandenberg Space Force Base,"Lompoc, CA",2,100,2020,34.678349,-120.611716,Y,Vandenberg Main Base,0.706
-West Desert Test Center,"Dugway, UT",2,100,2020,40.1543,-113.2047,Y,MANUAL_COORDS,1.0
-White Sands Missile Range,"White Sands Missile Range, NM",2,100,2020,33.073976,-106.37495,Y,White Sands Missile Range NM,0.943
-Whiteman Air Force Base,"Knob Noster, MO",2,100,2024,38.725806,-93.549468,Y,Whiteman AFB,1.0
-Wright-Patterson Air Force Base,"Dayton, OH",2,100,2020_moved_2024,39.822397,-84.049223,Y,Wright-Patt AFB,0.857
-Yuma Proving Ground,"Yuma, AZ",2,100,2020,33.052943,-114.189754,Y,Yuma Proving Ground,1.0
-Iowa National Guard Joint Force Headquarters,"Des Moines, IA",0,100,2023,41.6005,-93.6091,Y,MANUAL_COORDS,1.0
-Cape Cod Air Force Station,"Sandwich, MA",0,1,2020,41.753616,-70.539166,Y,Cape Cod Space Force Station,1.0
-Lackland Air Force Base,"San Antonio, TX",0,100,2020,29.3842,-98.6177,Y,MANUAL_COORDS,1.0
+site_name,location,current_part,threshold_miles,regime_added,latitude,longitude,conus,mirta_match
+Adelphi Laboratory Center,"Adelphi, MD",1,1,2020,39.031507,-76.963785,Y,Adelphi Laboratory Center
+Air Force Maui Optical and Supercomputing Site,"Maui, HI",1,1,2020,20.746208,-156.431245,N,Air Force Maui Optical and Supercomputing Site
+Air Force Office of Scientific Research,"Arlington, VA",1,1,2020,38.8803,-77.1066,Y,MANUAL_COORDS
+Andersen Air Force Base,"Yigo, Guam",1,1,2020,13.596895,144.89815,N,Andersen Air Force Base
+Anniston Army Depot,"Anniston, AL",1,1,2024,33.7208,-85.8497,Y,MANUAL_COORDS
+Army Futures Command,"Austin, TX",1,1,2020,30.3891,-97.7244,Y,MANUAL_COORDS
+Army Research Lab--Orlando Simulations and Training Technology Center,"Orlando, FL",1,1,2020,28.5861,-81.1975,Y,MANUAL_COORDS
+Army Research Office,"Durham, NC",1,1,2020,,,Y,
+Barter Island Regional Radar Site,"Barter Island, AK",1,1,2024,70.134,-143.6577,N,MANUAL_COORDS
+Beale Air Force Base,"Yuba City, CA",1,1,2020,39.120933,-121.395571,Y,Beale Air Force Base
+Biometric Technology Center (Defense Forensics and Biometrics Agency),"Clarksburg, WV",1,1,2020,39.3252,-80.2635,Y,MANUAL_COORDS
+Blue Grass Army Depot,"Richmond, KY",1,1,2024,37.7019,-84.2177,Y,MANUAL_COORDS
+Buckley Space Force Base,"Aurora, CO",1,1,2020,39.70667,-104.757689,Y,Buckley Space Force Base
+Camp Blaz,"Dededo, Guam",1,1,2024,32.711836,-116.518635,N,Camp Morena
+Camp Mackall,"Southern Pines, NC",1,1,2020,35.030078,-79.481605,Y,Camp MacKall
+Camp Navajo,"Bellemont, AZ",1,1,2024,35.19483,-111.850577,Y,NG Camp Navajo
+Camp Roberts,"San Miguel, CA",1,1,2024,35.7601,-120.7454,Y,MANUAL_COORDS
+Cape Newenham Long Range Radar Site,"Cape Newenham, AK",1,1,2020,58.642608,-162.066653,N,Cape Newenham Long Range Radar Site
+Cavalier Space Force Station,"Cavalier, ND",1,1,2020,48.724531,-97.90307,Y,Cavalier Space Force Station
+Cheyenne Mountain Space Force Station,"Colorado Springs, CO",1,1,2020,38.741034,-104.842724,Y,Cheyenne Mountain Space Force Station
+Clear Space Force Station,"Anderson, AK",1,1,2020,64.288161,-149.190715,N,Clear Space Force Station
+Cold Bay Regional Radar Site,"Cold Bay, AK",1,1,2024,55.205,-162.7225,N,MANUAL_COORDS
+Combat Capabilities Development Command Soldier Center,"Natick, MA",1,1,2020,42.289939,-71.362426,Y,U.S. Army Natick Soldier Systems Center
+Creech Air Force Base,"Indian Springs, NV",1,1,2020,36.655244,-115.621045,Y,Creech Air Force Base
+Davis-Monthan Air Force Base,"Tucson, AZ",1,1,2020,32.160802,-110.848722,Y,Davis-Monthan Air Force Base
+Defense Advanced Research Projects Agency,"Arlington, VA",1,1,2020,38.8803,-77.1066,Y,MANUAL_COORDS
+Detroit Arsenal,"Warren, MI",1,1,2024,42.497329,-83.041334,Y,Detroit Arsenal
+Eareckson Air Station,"Shemya, AK",1,1,2020,52.721037,174.10714,N,Eareckson Air Station
+Eielson Air Force Base,"Fairbanks, AK",1,1,2020,64.648835,-147.004204,N,Eielson Air Force Base
+Ellington Field Joint Reserve Base,"Houston, TX",1,1,2020,29.616518,-95.170545,Y,Ellington Field Joint Reserve Base
+Fairchild Air Force Base,"Spokane, WA",1,1,2020,47.618661,-117.648385,Y,Fairchild Air Force Base
+Fort Belvoir,"Fairfax County, VA",1,1,2020,38.695926,-77.181755,Y,Fort Belvoir
+Fort Bliss,"El Paso, TX",1,1,2020,31.944489,-106.249728,Y,Fort Bliss
+Fort Campbell,"Hopkinsville, KY and Clarksville, TN",1,1,2020,36.596508,-87.599049,Y,Fort Campbell
+Fort Carson,"Colorado Springs, CO",1,1,2020,38.558899,-104.826739,Y,Fort Carson
+Fort Cavazos,"Killeen, TX",1,1,2020,31.21579,-97.737031,Y,Fort Cavazos
+Fort Detrick,"Frederick, MD",1,1,2020,39.441179,-77.424981,Y,Fort Detrick
+Fort Drum,"Watertown, NY",1,1,2020,44.1249,-75.592001,Y,Fort Drum
+Fort Eisenhower,"Augusta, GA",1,1,2020,33.356688,-82.237259,Y,Fort Eisenhower
+Fort Gregg-Adams,"Petersburg, VA",1,1,2020,37.235745,-77.332655,Y,Fort Gregg-Adams
+Fort Knox,"Elizabethtown, KY",1,1,2020,37.9073,-85.883786,Y,Fort Knox
+Fort Leavenworth,"Leavenworth County, KS",1,1,2020,39.364088,-94.918328,Y,Fort Leavenworth
+Fort Leonard Wood,"Pulaski County, MO",1,1,2020,37.70554,-92.157111,Y,Fort Leonard Wood
+Fort Meade,"Anne Arundel County, MD",1,1,2020,39.108811,-76.744744,Y,Fort Meade
+Fort Moore,"Columbus, GA",1,1,2020,32.399965,-84.800504,Y,Fort Moore
+Fort Riley,"Junction City, KS",1,1,2020,39.186768,-96.820898,Y,Fort Riley
+Fort Shafter,"Honolulu, HI",1,1,2020,21.34584,-157.883504,N,Fort Shafter
+Fort Sill,"Lawton, OK",1,1,2020,34.681345,-98.51918,Y,Fort Sill
+Fort Stewart,"Hinesville, GA",1,1,2020,31.99363,-81.616768,Y,Fort Stewart
+Fort Yukon Long Range Radar Site,"Fort Yukon, AK",1,1,2020,66.560054,-145.207032,N,Fort Yukon Long Range Radar Site
+Francis E. Warren Air Force Base,"Cheyenne, WY",1,1,2020,41.164803,-104.863207,Y,Francis E. Warren Air Force Base
+Guam Tracking Station,"Inarajan, Guam",1,1,2020,13.3733,144.6897,N,MANUAL_COORDS
+Hanscom Air Force Base,"Lexington, MA",1,1,2020,42.458255,-71.276833,Y,Hanscom Air Force Base
+Hawthorne Army Depot,"Hawthorne, NV",1,1,2024,38.5175,-118.6102,Y,MANUAL_COORDS
+Holloman Air Force Base,"Alamogordo, NM",1,1,2020,32.918017,-106.133633,Y,Holloman Air Force Base
+Holston Army Ammunition Plant,"Kingsport, TN",1,1,2020,36.515165,-82.653804,Y,Holston Army Ammunition Plant
+Indian Mountain Regional Radar Site,"Indian Mountain, AK",1,1,2024,45.084394,-83.570056,N,Alpena County Regional Airport
+Iowa Army Ammunition Plant,"Middletown, IA",1,1,2024,40.8303,-91.1118,Y,MANUAL_COORDS
+Joint Base Anacostia-Bolling,"Washington, DC",1,1,2020,38.8415,-77.0128,Y,MANUAL_COORDS
+Joint Base Andrews,"Camp Springs, MD",1,1,2020,38.813084,-76.857687,Y,Joint Base Andrews
+Joint Base Elmendorf-Richardson,"Anchorage, AK",1,1,2020,61.269787,-149.811208,N,Joint Base Elmendorf-Richardson
+Joint Base Langley-Eustis,"Hampton, VA and Newport News, VA",1,1,2020,37.083336,-76.362868,Y,Joint Base Langley-Eustis
+Joint Base Lewis-McChord,"Tacoma, WA",1,1,2020,31.944489,-106.249728,Y,Fort Bliss
+Joint Base McGuire-Dix-Lakehurst,"Lakehurst, NJ",1,1,2020,,,Y,
+Joint Base Myer-Henderson Hall,"Arlington, VA",1,1,2024,38.8765,-77.0808,Y,MANUAL_COORDS
+Joint Base Pearl Harbor-Hickam,"Honolulu, HI",1,1,2020,21.338854,-157.949497,N,Joint Base Pearl Harbor-Hickam
+Joint Expeditionary Base Little Creek-Fort Story,"Virginia Beach, VA",1,1,2020,36.916938,-76.15917,Y,Joint Expeditionary Base Little Creek-Fort Story
+Joint Systems Manufacturing Center--Lima,"Lima, OH",1,1,2024,40.7157,-83.9932,Y,MANUAL_COORDS
+Kaena Point Satellite Tracking Station,"Waianae, HI",1,1,2020,21.564715,-158.239801,N,Kaena Point Space Force Station
+Kenai Regional Radar Site,"Kenai, AK",1,1,2024,41.161972,-104.821155,N,Cheyenne Regional Airport
+King Salmon Air Force Station,"King Salmon, AK",1,1,2020,38.89184,-123.546579,N,Point Arena Air Force Station
+Kirtland Air Force Base,"Albuquerque, NM",1,1,2020,35.042127,-106.540306,Y,Kirtland Air Force Base
+Kodiak Tracking Station,"Kodiak Island, AK",1,1,2020,57.821283,-152.332559,N,Kodiak Tracking Station
+Kotzebue Regional Radar Site,"Kotzebue, AK",1,1,2024,66.8784,-162.605,N,MANUAL_COORDS
+Lake City Army Ammunition Plant,"Independence, MO",1,1,2024,39.0503,-94.3789,Y,MANUAL_COORDS
+Letterkenny Army Depot,"Chambersburg, PA",1,1,2024,39.9561,-77.668,Y,MANUAL_COORDS
+Lisburne Regional Radar Site,"Cape Lisburne, AK",1,1,2024,68.8752,-166.11,N,MANUAL_COORDS
+Los Angeles Air Force Base,"El Segundo, CA",1,1,2020,33.918944,-118.3811,Y,Los Angeles Air Force Base
+MacDill Air Force Base,"Tampa, FL",1,1,2020,27.843604,-82.501024,Y,MacDill Air Force Base
+Marine Corps Air Ground Combat Center Twentynine Palms,"Twentynine Palms, CA",1,1,2020,,,Y,
+Marine Corps Air Station Beaufort,"Beaufort, SC",1,1,2020,32.475541,-80.71419,Y,Marine Corps Air Station Beaufort
+Marine Corps Air Station Cherry Point,"Cherry Point, NC",1,1,2020,34.9009,-76.8806,Y,MANUAL_COORDS
+Marine Corps Air Station Miramar,"San Diego, CA",1,1,2020,32.868422,-117.08678,Y,Marine Corps Air Station Miramar
+Marine Corps Air Station New River,"Jacksonville, NC",1,1,2020,34.652714,-77.439431,Y,Marine Corps Air Station New River
+Marine Corps Air Station Yuma,"Yuma, AZ",1,1,2020,32.645407,-114.602249,Y,Marine Corps Air Station Yuma
+Marine Corps Base Camp Lejeune,"Jacksonville, NC",1,1,2020,34.595837,-77.354072,Y,Marine Corps Base Camp Lejeune
+Marine Corps Base Camp Pendleton,"Oceanside, CA",1,1,2020,33.213076,-117.397261,Y,Marine Corps Base Camp Pendleton
+Marine Corps Base Hawaii,"Kaneohe Bay, HI",1,1,2020,21.4505,-157.7498,N,MANUAL_COORDS
+"Marine Corps Base Hawaii, Camp H.M. Smith","Halawa, HI",1,1,2020,21.386591,-157.905498,N,"Marine Corps Base Hawaii, Camp H.M. Smith"
+Marine Corps Base Quantico,"Quantico, VA",1,1,2020,38.558088,-77.477252,Y,Marine Corps Base Quantico
+Marine Corps Logistics Base Albany,"Albany, GA",1,1,2024,31.5399,-84.0621,Y,MANUAL_COORDS
+Marine Corps Logistics Base Barstow,"Barstow, CA",1,1,2024,34.8694,-116.9561,Y,MANUAL_COORDS
+Marine Corps Support Facility Blount Island,"Jacksonville, FL",1,1,2024,30.406,-81.5325,Y,MANUAL_COORDS
+Mark Center,"Alexandria, VA",1,1,2020,38.829458,-77.117367,Y,Mark Center
+McAlester Army Ammunition Plant,"McAlester, OK",1,1,2024,34.822,-95.9219,Y,MANUAL_COORDS
+Military Ocean Terminal Concord,"Concord, CA",1,1,2024,38.0038,-122.0609,Y,MANUAL_COORDS
+Military Ocean Terminal Sunny Point,"Brunswick County, NC",1,1,2024,33.9606,-78.0066,Y,MANUAL_COORDS
+Minot Air Force Base,"Minot, ND",1,1,2020,48.415358,-101.322743,Y,Minot Air Force Base
+Naval Air Station Corpus Christi,"Corpus Christi, TX",1,1,2024,32.553221,-88.569493,Y,Naval Air Station Meridian
+Naval Air Station Joint Reserve Base New Orleans,"Belle Chasse, LA",1,1,2020,29.831316,-90.020701,Y,Naval Air Station Joint Reserve Base New Orleans
+Naval Air Station Oceana,"Virginia Beach, VA",1,1,2020,36.813726,-76.030985,Y,Naval Air Station Oceana
+Naval Air Station Oceana Dam Neck Annex,"Virginia Beach, VA",1,1,2020,36.788788,-75.96572,Y,Naval Air Station Oceana Dam Neck Annex
+Naval Air Station Whidbey Island,"Oak Harbor, WA",1,1,2020,48.338803,-122.662021,Y,Naval Air Station Whidbey Island
+Naval Base Guam,"Apra Harbor, Guam",1,1,2020,13.428655,144.648549,N,Naval Base Guam
+Naval Base Kitsap Bangor,"Silverdale, WA",1,1,2020,47.555771,-122.652079,Y,Naval Base Kitsap – Keyport
+Naval Base Point Loma,"San Diego, CA",1,1,2020,32.700942,-117.25067,Y,Naval Base Point Loma
+Naval Base San Diego,"San Diego, CA",1,1,2020,32.675704,-117.123009,Y,Naval Base San Diego
+Naval Base Ventura County--Port Hueneme Operating Facility,"Port Hueneme, CA",1,1,2020,34.162906,-119.208411,Y,Naval Base Ventura County – Port Hueneme Operating Facility
+Naval Logistics Support Activity Ketchikan,"Ketchikan, AK",1,1,2024,38.868271,-86.797132,N,Naval Support Activity Crane
+Naval Logistics Support Activity LaMoure,"LaMoure, ND",1,1,2024,28.584091,-81.196796,Y,Naval Support Activity Orlando
+Naval Logistics Support Annex Orlando,"Okahumpka, FL",1,1,2024,28.584091,-81.196796,Y,Naval Support Activity Orlando
+Naval Logistics Support Facility Aguada,"Aguada, Puerto Rico",1,1,2024,38.339825,-77.032544,N,Naval Support Facility Dahlgren
+Naval Logistics Support Facility Cutler,"Cutler, ME",1,1,2024,38.974477,-77.192806,Y,Naval Support Facility Carderock
+Naval Research Laboratory,"Washington, DC",1,1,2020,38.824257,-77.024487,Y,Naval Research Laboratory
+Naval Research Laboratory--Blossom Point,"Welcome, MD",1,1,2020,38.42182,-77.092251,Y,Naval Research Laboratory – Blossom Point
+Naval Research Laboratory--Stennis Space Center,"Hancock County, MS",1,1,2020,30.379522,-89.60267,Y,Naval Research Laboratory – Stennis Space Center
+Naval Research Laboratory--Tilghman,"Tilghman, MD",1,1,2020,38.678346,-76.343553,Y,Naval Research Laboratory – Tilghman
+Naval Station Newport,"Newport, RI",1,1,2020,41.519808,-71.324633,Y,Naval Station Newport
+Naval Station Norfolk,"Norfolk, VA",1,1,2020,36.942073,-76.298718,Y,Naval Station Norfolk
+Naval Submarine Base Kings Bay,"Kings Bay, GA",1,1,2020,30.790454,-81.538054,Y,Naval Submarine Base Kings Bay
+Naval Submarine Base New London,"Groton, CT",1,1,2020,41.399471,-72.086309,Y,Naval Submarine Base New London
+Naval Suffolk Facility,"Suffolk, VA",1,1,2024,38.339825,-77.032544,Y,Naval Support Facility Dahlgren
+Naval Support Activity Crane,"Crane, IN",1,1,2020,38.868271,-86.797132,Y,Naval Support Activity Crane
+Naval Support Activity Orlando,"Orlando, FL",1,1,2020,28.584091,-81.196796,Y,Naval Support Activity Orlando
+Naval Support Activity Panama City,"Panama City, FL",1,1,2020,30.165537,-85.749868,Y,Naval Support Activity Panama City
+Naval Support Activity Philadelphia,"Philadelphia, PA",1,1,2020,40.041303,-75.094581,Y,Naval Support Activity Philadelphia
+Naval Support Facility Carderock,"Bethesda, MD",1,1,2020,38.974477,-77.192806,Y,Naval Support Facility Carderock
+Naval Support Facility Dahlgren,"Dahlgren, VA",1,1,2020,38.339825,-77.032544,Y,Naval Support Facility Dahlgren
+Naval Support Facility Indian Head,"Indian Head, MD",1,1,2020,38.584985,-77.183514,Y,Naval Support Facility Indian Head
+Naval Surface Warfare Center Carderock Division--Acoustic Research Detachment,"Bayview, ID",1,1,2020,48.123704,-122.171056,Y,Marysville WA
+Naval Weapons Station Seal Beach Detachment Norco,"Norco, CA",1,1,2020,33.9372,-117.5711,Y,MANUAL_COORDS
+New Boston Air Station,"New Boston, NH",1,1,2020,52.721037,174.10714,Y,Eareckson Air Station
+Offutt Air Force Base,"Bellevue, NE",1,1,2020,41.119115,-95.908279,Y,Offutt Air Force Base
+Oliktok Long Range Radar Site,"Oliktok, AK",1,1,2020,70.495007,-149.880447,N,Oliktok Long Range Radar Site
+Orchard Combat Training Center,"Boise, ID",1,1,2020,43.227721,-116.139118,Y,Orchard Combat Training Center
+Peason Ridge Training Area,"Leesville, LA",1,1,2020,19.714969,-155.627038,Y,Pohakuloa Training Area
+Pentagon,"Arlington, VA",1,1,2020,43.277804,-71.122229,Y,NG Training Site
+Peterson Space Force Base,"Colorado Springs, CO",1,1,2020,38.822897,-104.696135,Y,Peterson Space Force Base
+Picatinny Arsenal,"Morris County, NJ",1,1,2020,40.954337,-74.544607,Y,Picatinny Arsenal
+Pine Bluff Arsenal,"White Hall, AR",1,1,2024,34.333204,-92.088861,Y,Pine Bluff Arsenal
+Pinon Canyon Maneuver Site,"Tyrone, CO",1,1,2020,37.497709,-103.91798,Y,Piñon Canyon Maneuver Site
+Pohakuloa Training Area,"Hilo, HI",1,1,2020,19.714969,-155.627038,N,Pohakuloa Training Area
+Point Barrow Long Range Radar Site,"Point Barrow, AK",1,1,2020,71.326239,-156.625168,N,Point Barrow Long Range Radar Site
+Portsmouth Naval Shipyard,"Kittery, ME",1,1,2020,36.846127,-76.308004,Y,NAVMEDCEN Portsmouth VA
+Pueblo Chemical Depot,"Pueblo, CO",1,1,2024,38.2697,-104.4528,Y,MANUAL_COORDS
+Radford Army Ammunition Plant,"Radford, VA",1,1,2020,37.181516,-80.539145,Y,Radford Army Ammunition Plant
+Red River Army Depot,"Texarkana, TX",1,1,2024,33.4461,-94.2988,Y,MANUAL_COORDS
+Rock Island Arsenal,"Rock Island, IL",1,1,2020,41.517086,-90.553917,Y,Rock Island Arsenal
+Romanzof Regional Radar Site,"Romanzof, AK",1,1,2024,61.7817,-166.0975,N,MANUAL_COORDS
+Rome Research Laboratory,"Rome, NY",1,1,2020,43.221638,-75.410865,Y,Rome Research Laboratory
+Scott Air Force Base,"St. Clair County, IL",1,1,2024,38.544631,-89.852834,Y,Scott AFB
+Scranton Army Ammunition Plant,"Scranton, PA",1,1,2024,41.3876,-75.6229,Y,MANUAL_COORDS
+Seymour Johnson Air Force Base,"Goldsboro, NC",1,1,2020,35.347902,-77.962578,Y,Seymour Johnson Air Force Base
+Shaw Air Force Base,"Sumter, SC",1,1,2020,33.977101,-80.474101,Y,Shaw Air Force Base
+Southeast Alaska Acoustic Measurement Facility,"Ketchikan, AK",1,1,2020,41.517086,-90.553917,N,Rock Island Arsenal
+Sparrevohn Regional Radar Site,"Sparrevohn, AK",1,1,2024,71.326239,-156.625168,N,Point Barrow Long Range Radar Site
+Tatalina Regional Radar Site,"Tatalina, AK",1,1,2024,62.8944,-155.9683,N,MANUAL_COORDS
+Tin City Long Range Radar Site,"Tin City, AK",1,1,2020,65.566976,-167.987855,N,Tin City Long Range Radar Site
+Tooele Army Depot,"Tooele, UT",1,1,2024,40.5131,-112.3875,Y,MANUAL_COORDS
+Travis Air Force Base,"Fairfield, CA",1,1,2020,38.264564,-121.942809,Y,Travis Air Force Base
+Tyndall Air Force Base,"Bay County, FL",1,1,2020,30.04674,-85.558849,Y,Tyndall Air Force Base
+Watervliet Arsenal,"Watervliet, NY",1,1,2020,42.719486,-73.707302,Y,Watervliet Arsenal
+Aberdeen Proving Ground,"Aberdeen, MD",2,100,2020,39.348887,-76.284322,Y,Aberdeen Proving Ground
+Air Force Plant 42,"Palmdale, CA",2,100,2020,34.6236,-118.0832,Y,Air Force Plant 42
+Altus Air Force Base,"Altus, OK",2,100,2024,34.663766,-99.274545,Y,Altus AFB
+Arnold Air Force Base,"Coffee County and Franklin County, TN",2,100,2020_moved_2024,35.356625,-86.073935,Y,Arnold Air Force Base
+Barksdale Air Force Base,"Bossier City, LA",2,100,2024,32.500281,-93.599941,Y,Barksdale AFB
+Camp Dodge,"Johnston, IA",2,100,2024,41.741476,-93.71471,Y,NG Camp Dodge Johnston TS
+Camp Grayling,"Grayling, MI",2,100,2024,44.6614,-84.7282,Y,MANUAL_COORDS
+Camp Shelby,"Hattiesburg, MS",2,100,2020,31.120738,-89.035723,Y,Camp Shelby
+Camp Williams,"Bluffdale, UT",2,100,2024,40.4398,-111.9282,Y,MANUAL_COORDS
+Cannon Air Force Base,"Clovis, NM",2,100,2024,34.386475,-103.317513,Y,Cannon AFB
+Cape Canaveral Space Force Station,"Cape Canaveral, FL",2,100,2020,28.477357,-80.570279,Y,Cape Canaveral Space Force Station
+Chocolate Mountain Aerial Gunnery Range,"Niland, CA",2,100,2024,33.0247,-115.5456,Y,MANUAL_COORDS
+Columbus Air Force Base,"Columbus, MS",2,100,2024,33.641312,-88.451119,Y,Columbus AFB
+Dare County Range,"Manns Harbor, NC",2,100,2020,35.71448,-75.87856,Y,Dare County Range
+Dover Air Force Base,"Delmarva, DE",2,100,2024,39.127766,-75.466883,Y,Dover AFB
+Dyess Air Force Base,"Abilene, TX",2,100,2023,32.423349,-99.843817,Y,Dyess AFB
+Edwards Air Force Base,"Edwards, CA",2,100,2023,34.89036,-117.848869,Y,Edwards Air Force Base
+Eglin Air Force Base,"Valparaiso, FL",2,100,2020,30.607122,-86.326377,Y,Eglin Air Force Base
+Ellsworth Air Force Base,"Box Elder, SD",2,100,2023,44.157084,-103.094008,Y,Ellsworth AFB
+Fallon Range Complex,"Fallon, NV",2,100,2020,39.4163,-118.7001,Y,MANUAL_COORDS
+Fort Greely,"Delta Junction, AK",2,100,2020,63.966801,-145.715116,N,Fort Greely
+Fort Huachuca,"Sierra Vista, AZ",2,100,2023,31.532699,-110.384085,Y,Fort Huachuca
+Fort Irwin,"San Bernardino County, CA",2,100,2020,35.3751,-116.633087,Y,Fort Irwin
+Fort Johnson,"Vernon Parish, LA",2,100,2020,31.142336,-93.117646,Y,Fort Johnson
+Fort Liberty,"Fayetteville, NC",2,100,2020,35.108712,-79.141255,Y,Fort Liberty
+Fort Novosel,"Dale County, AL",2,100,2024,31.403955,-85.747317,Y,Fort Novosel AL
+Fort Wainwright,"Fairbanks, AK",2,100,2020,64.54524,-147.708818,N,Fort Wainwright
+Goodfellow Air Force Base,"San Angelo, TX",2,100,2024,31.432178,-100.404389,Y,Goodfellow AFB
+Grand Forks Air Force Base,"Grand Forks, ND",2,100,2023,47.954464,-97.3909,Y,Grand Forks AFB
+Hardwood Range,"Necedah, WI",2,100,2020,44.234591,-90.054047,Y,Hardwood Range
+Hill Air Force Base,"Ogden, UT",2,100,2020,41.128461,-111.99171,Y,Hill Air Force Base
+Joint Base Cape Cod,"Sandwich, MA",2,100,2024,38.813084,-76.857687,Y,Joint Base Andrews
+Joint Base Charleston,"North Charleston, SC",2,100,2024,38.813084,-76.857687,Y,Joint Base Andrews
+Joint Base San Antonio,"San Antonio, TX",2,100,2020_moved_2024,29.3842,-98.5811,Y,MANUAL_COORDS
+Laughlin Air Force Base,"Del Rio, TX",2,100,2023,29.35674,-100.782947,Y,Laughlin AFB
+Little Rock Air Force Base,"Little Rock, AR",2,100,2024,34.903991,-92.138483,Y,Little Rock AFB
+Luke Air Force Base,"Glendale, AZ",2,100,2023,33.534316,-112.376099,Y,Luke AFB
+Malmstrom Air Force Base,"Great Falls, MT",2,100,2020_moved_2024,47.505874,-111.182558,Y,Malmstrom Air Force Base
+Maxwell-Gunter Air Force Base,"Montgomery, AL",2,100,2024,32.407581,-86.244828,Y,Maxwell AFB Gunter Annex
+Moody Air Force Base,"Valdosta, GA",2,100,2020_moved_2024,30.967503,-83.185157,Y,Moody Air Force Base
+Mountain Home Air Force Base,"Mountain Home, ID",2,100,2020,43.048939,-115.86588,Y,Mountain Home Air Force Base
+Muscatatuck Urban Training Center,"Butlerville, IN",2,100,2024,39.051345,-85.524743,Y,NG Muscatatuck Urban Training Center
+Naval Air Station Meridian,"Meridian, MS",2,100,2020,32.553221,-88.569493,Y,Naval Air Station Meridian
+Naval Air Station Patuxent River,"Lexington Park, MD",2,100,2020,38.281995,-76.420254,Y,Naval Air Station Patuxent River
+Naval Air Weapons Station China Lake,"Ridgecrest, CA",2,100,2020,35.934872,-117.643939,Y,Naval Air Weapons Station China Lake
+Naval Base Kitsap--Keyport,"Keyport, WA",2,100,2020,47.555771,-122.652079,Y,Naval Base Kitsap – Keyport
+Naval Base Ventura County--Point Mugu Operating Facility,"Point Mugu, CA",2,100,2020,34.112329,-119.110014,Y,Naval Base Ventura County – Point Mugu Operating Facility
+Naval Weapons Systems Training Facility Boardman,"Boardman, OR",2,100,2020,45.71965,-119.691195,Y,Naval Weapons Systems Training Facility Boardman
+Nellis Air Force Base,"Las Vegas, NV",2,100,2020,36.243242,-114.994594,Y,Nellis Air Force Base
+Nevada Test and Training Range,"Tonopah, NV",2,100,2020,37.497893,-116.504324,Y,Nevada Test and Training Range
+Pacific Missile Range Facility,"Kekaha, HI",2,100,2020,48.053244,-122.726221,N,CNI NAVMAG Indian Island
+Patrick Space Force Base,"Cocoa Beach, FL",2,100,2020,28.23357,-80.608413,Y,Patrick Space Force Base
+Redstone Arsenal,"Huntsville, AL",2,100,2020_moved_2024,34.632767,-86.657213,Y,Redstone Arsenal
+Schriever Space Force Base,"Colorado Springs, CO",2,100,2020_moved_2024,38.805792,-104.520474,Y,Schriever Space Force Base
+Tinker Air Force Base,"Midwest City, OK",2,100,2020_moved_2024,35.404668,-97.392457,Y,Tinker Air Force Base
+Townsend Bombing Range,"McIntosh County, GA",2,100,2024,31.5747,-81.3536,Y,MANUAL_COORDS
+Tropic Regions Test Center,"Wahiawa, HI",2,100,2020,21.5067,-158.0031,N,MANUAL_COORDS
+Utah Test and Training Range,"Barro, UT",2,100,2020,40.497005,-113.563247,Y,Utah Test and Training Range
+Vance Air Force Base,"Enid, OK",2,100,2024,36.335961,-97.911806,Y,Vance AFB
+Vandenberg Space Force Base,"Lompoc, CA",2,100,2020,34.713691,-120.557922,Y,Vandenberg Space Force Base
+West Desert Test Center,"Dugway, UT",2,100,2020,40.1543,-113.2047,Y,MANUAL_COORDS
+White Sands Missile Range,"White Sands Missile Range, NM",2,100,2020,33.162453,-106.42574,Y,White Sands Missile Range
+Whiteman Air Force Base,"Knob Noster, MO",2,100,2024,38.729308,-93.551852,Y,Whiteman AFB
+Wright-Patterson Air Force Base,"Dayton, OH",2,100,2020_moved_2024,39.817443,-84.050701,Y,Wright-Patterson Air Force Base
+Yuma Proving Ground,"Yuma, AZ",2,100,2020,33.170069,-114.353451,Y,Yuma Proving Ground

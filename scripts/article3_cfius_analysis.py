@@ -2,7 +2,7 @@
 """
 article3_cfius_analysis.py
 
-Article 3 empirical pipeline — CFIUS counterfactual jurisdiction analysis.
+Article 3 empirical pipeline -- CFIUS counterfactual jurisdiction analysis.
 
 Task 1: Build regime-tagged, geocoded CFIUS Appendix A site database
 Task 2: Compute Haversine distances and classify AFIDA holdings as
@@ -16,13 +16,13 @@ Inputs:
 
 Outputs:
   - cfius_appendix_a_geocoded.csv (230 sites with coordinates and regime tags)
-  - cfius_jurisdiction_analysis.csv (119 counties × 4 regimes)
+  - cfius_jurisdiction_analysis.csv (119 counties x 4 regimes)
   - cfius_headline_table.txt (summary statistics)
 
 Sources:
-  - 85 FR 3166 (Jan 17, 2020) — Original Part 802 Appendix A
-  - 88 FR 57348 (Aug 23, 2023) — 8 installations added
-  - 89 FR 88128 (Nov 7, 2024) — 59 added, 8 moved, 3 removed
+  - 85 FR 3166 (Jan 17, 2020) -- Original Part 802 Appendix A
+  - 88 FR 57348 (Aug 23, 2023) -- 8 installations added
+  - 89 FR 88128 (Nov 7, 2024) -- 59 added, 8 moved, 3 removed
   - eCFR Title 31, Appendix A to Part 802 (current as of Jan 2026)
   - MIRTA DoD Sites Boundaries GeoJSON (DataLumos Project 239602)
 
@@ -53,16 +53,32 @@ except ImportError:
 # CONFIGURATION
 # ===================================================================
 
-# Input paths (adjust to your environment)
-AFIDA_PATH = "AFIDACurrentHoldingsYR2024.xlsx"
-NOAA_SHAPEFILE = "c_16ap26"  # .shp/.dbf/.shx without extension
-MIRTA_GEOJSON = "mirta-dod-sites-boundaries-geojson.geojson"
-APPENDIX_A_CSV = "cfius_appendix_a_all_regimes.csv"
+# Input paths (relative to project root: cfius-jurisdiction-analysis/)
+AFIDA_PATH = "data/inputs/AFIDACurrentHoldingsYR2024.xlsx"
+NOAA_SHAPEFILE = "data/inputs/c_16ap26"  # .shp/.dbf/.shx without extension
+MIRTA_GEOJSON = "data/inputs/mirta-dod-sites-points-geojson.geojson"
+APPENDIX_A_CSV = "data/outputs/cfius_appendix_a_all_regimes.csv"
 
 # Output paths
-OUTPUT_GEOCODED = "cfius_appendix_a_geocoded.csv"
-OUTPUT_ANALYSIS = "cfius_jurisdiction_analysis.csv"
-OUTPUT_HEADLINE = "cfius_headline_table.txt"
+OUTPUT_GEOCODED = "data/outputs/cfius_appendix_a_geocoded.csv"
+OUTPUT_ANALYSIS = "data/outputs/cfius_jurisdiction_analysis.csv"
+OUTPUT_HEADLINE = "data/outputs/cfius_headline_table.txt"
+
+# Part 3 ICBM Missile Field Counties (31 CFR Part 802, Appendix A)
+# Binary FIPS test -- no distance threshold. Present since Regime 2 (Feb 2020).
+PART3_FIPS = {
+    # 90th MW (F.E. Warren AFB) -- CO, NE, WY
+    '08075','08087','08115','08121','08123',
+    '31007','31033','31049','31069','31105','31123','31157','31165',
+    '56015','56021','56031',
+    # 341st MW (Malmstrom AFB) -- MT
+    '30005','30013','30015','30027','30035','30037','30045','30049',
+    '30051','30059','30065','30069','30071','30073','30095','30097',
+    '30099','30101','30107',
+    # 91st MW (Minot AFB) -- ND
+    '38009','38013','38025','38049','38053','38055','38057','38061',
+    '38069','38075','38083','38101','38105',
+}
 
 
 # ===================================================================
@@ -90,7 +106,7 @@ MANUAL_COORDS: Dict[str, Tuple[float, float]] = {
     "Air Force Office of Scientific Research": (38.8803, -77.1066),
     "Anniston Army Depot": (33.7208, -85.8497),
     "Army Futures Command": (30.3891, -97.7244),
-    "Army Research Lab—Orlando Simulations and Training Technology Center": (28.5861, -81.1975),
+    "Army Research Lab--Orlando Simulations and Training Technology Center": (28.5861, -81.1975),
     "Biometric Technology Center (Defense Forensics and Biometrics Agency)": (39.3252, -80.2635),
     "Blue Grass Army Depot": (37.7019, -84.2177),
     "Camp Roberts": (35.7601, -120.7454),
@@ -103,7 +119,7 @@ MANUAL_COORDS: Dict[str, Tuple[float, float]] = {
     "Joint Base Anacostia-Bolling": (38.8415, -77.0128),
     "Joint Base Myer-Henderson Hall": (38.8765, -77.0808),
     "Joint Base San Antonio": (29.3842, -98.5811),
-    "Joint Systems Manufacturing Center—Lima": (40.7157, -83.9932),
+    "Joint Systems Manufacturing Center--Lima": (40.7157, -83.9932),
     "Lake City Army Ammunition Plant": (39.0503, -94.3789),
     "Letterkenny Army Depot": (39.9561, -77.6680),
     "Marine Corps Base Hawaii": (21.4505, -157.7498),
@@ -142,7 +158,7 @@ MIRTA_OVERRIDES: Dict[str, str] = {
     "Joint Base McGuire-Dix-Lakehurst": "Dix",
     "Kaena Point Satellite Tracking Station": "Kaena Point Space Force Statio",
     "Marine Corps Air Ground Combat Center Twentynine Palms": "Twentynine Palms",
-    "Naval Surface Warfare Center Carderock Division—Acoustic Research Detachment": "Bayview Idaho",
+    "Naval Surface Warfare Center Carderock Division--Acoustic Research Detachment": "Bayview Idaho",
     "Pentagon": "Pentagon Building Site",
     "Portsmouth Naval Shipyard": "NSY Portsmouth",
     "Southeast Alaska Acoustic Measurement Facility": "Back Island AK",
@@ -164,15 +180,20 @@ def geocode_appendix_a(appendix_csv: str, mirta_path: str) -> List[dict]:
     for feat in mirta["features"]:
         p = feat["properties"]
         geom = feat["geometry"]
-        if geom["type"] == "Polygon":
+        if geom["type"] == "Point":
+            lon = geom["coordinates"][0]
+            lat = geom["coordinates"][1]
+        elif geom["type"] == "Polygon":
             coords = geom["coordinates"][0]
+            lat = sum(c[1] for c in coords) / len(coords)
+            lon = sum(c[0] for c in coords) / len(coords)
         elif geom["type"] == "MultiPolygon":
             largest = max(geom["coordinates"], key=lambda x: len(x[0]))
             coords = largest[0]
+            lat = sum(c[1] for c in coords) / len(coords)
+            lon = sum(c[0] for c in coords) / len(coords)
         else:
             continue
-        lat = sum(c[1] for c in coords) / len(coords)
-        lon = sum(c[0] for c in coords) / len(coords)
         mirta_sites.append({
             "name": (p.get("siteName") or "").strip(),
             "lat": round(lat, 6),
@@ -222,7 +243,7 @@ def geocode_appendix_a(appendix_csv: str, mirta_path: str) -> List[dict]:
                 return (s.lower().replace("air force base", "afb")
                         .replace("space force base", "sfb")
                         .replace("space force station", "sfs")
-                        .replace("—", " ").replace("-", " ").strip())
+                        .replace("--", " ").replace("-", " ").strip())
 
             best_s, best_m = 0, None
             for s in mirta_sites:
@@ -389,6 +410,14 @@ def run_jurisdiction_analysis(
             row[f"r{regime}_covering_dist"] = cov_dist or ""
             row[f"r{regime}_covering_threshold"] = cov_thresh or ""
 
+            # Part 3: ICBM missile field county FIPS binary test
+            # Present from Regime 2 onward (included in original 2020 rule)
+            if regime >= 2 and not covered and fips in PART3_FIPS:
+                row[f"r{regime}_covered"] = "Y"
+                row[f"r{regime}_covering_site"] = "Part 3 ICBM county"
+                row[f"r{regime}_covering_dist"] = 0
+                row[f"r{regime}_covering_threshold"] = "county"
+
         results.append(row)
 
     return results
@@ -404,10 +433,19 @@ def main():
     print("=" * 70)
 
     # Check inputs exist
+    # Auto-extract NOAA shapefile from zip if needed
+    if not os.path.exists(NOAA_SHAPEFILE + ".shp") and os.path.exists(NOAA_SHAPEFILE + ".zip"):
+        import zipfile
+        print(f"Extracting {NOAA_SHAPEFILE}.zip...")
+        with zipfile.ZipFile(NOAA_SHAPEFILE + ".zip") as zf:
+            zf.extractall(os.path.dirname(NOAA_SHAPEFILE) or ".")
+        print("  Done.")
+
     for path in [AFIDA_PATH, NOAA_SHAPEFILE + ".shp", MIRTA_GEOJSON, APPENDIX_A_CSV]:
         if not os.path.exists(path):
             print(f"ERROR: Required input not found: {path}")
             print("See script header for required input files.")
+            print("Run from the project root: cd cfius-jurisdiction-analysis")
             sys.exit(1)
 
     # Task 1: Geocode
@@ -424,6 +462,14 @@ def main():
     print("\n--- Task 2: Jurisdiction Analysis ---")
     holdings = parse_afida_chinese(AFIDA_PATH)
     print(f"Chinese holdings: {len(holdings)}")
+
+    # Save intermediate file for article3_complexity.py
+    afida_intermediate = "data/outputs/afida_chinese_2024.csv"
+    with open(afida_intermediate, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["fips", "county", "state", "owner", "country", "acres"])
+        w.writeheader()
+        w.writerows(holdings)
+    print(f"Saved intermediate: {afida_intermediate}")
 
     centroids = load_centroids(NOAA_SHAPEFILE)
     print(f"County centroids: {len(centroids)}")

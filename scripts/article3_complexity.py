@@ -34,7 +34,7 @@ ENTITY_PROFILES = {
     "Murphy Brown LLC (Smithfield Foods)": {
         "parent": "Smithfield Foods / WH Group",
         "sec_traceable": True,
-        "ownership": "WH Group (HK) → Smithfield Foods (VA) → Murphy Brown",
+        "ownership": "WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown",
         "chain_depth": 4,
         "jurisdictions": ["Hong Kong", "Cayman Islands", "Virginia"],
         "state_actor": True,
@@ -42,7 +42,7 @@ ENTITY_PROFILES = {
     "Murphy Brown of Missouri LLC (Smithfield Foods)": {
         "parent": "Smithfield Foods / WH Group",
         "sec_traceable": True,
-        "ownership": "WH Group (HK) → Smithfield Foods (VA) → Murphy Brown of Missouri",
+        "ownership": "WH Group (HK) -> Smithfield Foods (VA) -> Murphy Brown of Missouri",
         "chain_depth": 4,
         "jurisdictions": ["Hong Kong", "Cayman Islands", "Virginia", "Missouri"],
         "state_actor": True,
@@ -50,7 +50,7 @@ ENTITY_PROFILES = {
     "Smithfield Fresh Meats Corp.": {
         "parent": "Smithfield Foods / WH Group",
         "sec_traceable": True,
-        "ownership": "WH Group (HK) → Smithfield Foods (VA) → Smithfield Fresh Meats",
+        "ownership": "WH Group (HK) -> Smithfield Foods (VA) -> Smithfield Fresh Meats",
         "chain_depth": 4,
         "jurisdictions": ["Hong Kong", "Cayman Islands", "Virginia"],
         "state_actor": True,
@@ -58,7 +58,7 @@ ENTITY_PROFILES = {
     "Kansas City Sausage Company, LLC": {
         "parent": "Smithfield Foods / WH Group",
         "sec_traceable": True,
-        "ownership": "WH Group (HK) → Smithfield Foods (VA) → Kansas City Sausage",
+        "ownership": "WH Group (HK) -> Smithfield Foods (VA) -> Kansas City Sausage",
         "chain_depth": 4,
         "jurisdictions": ["Hong Kong", "Cayman Islands", "Virginia", "Missouri"],
         "state_actor": True,
@@ -66,7 +66,7 @@ ENTITY_PROFILES = {
     "SYNGENTA CROP PROTECTION, INC.": {
         "parent": "Syngenta / ChemChina / Sinochem",
         "sec_traceable": True,
-        "ownership": "Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta CP",
+        "ownership": "Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta CP",
         "chain_depth": 6,
         "jurisdictions": ["China", "Switzerland", "Cayman Islands", "Delaware"],
         "state_actor": True,
@@ -74,7 +74,7 @@ ENTITY_PROFILES = {
     "Syngenta Flowers, LLC": {
         "parent": "Syngenta / ChemChina / Sinochem",
         "sec_traceable": True,
-        "ownership": "Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Flowers",
+        "ownership": "Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Flowers",
         "chain_depth": 6,
         "jurisdictions": ["China", "Switzerland", "Cayman Islands"],
         "state_actor": True,
@@ -82,7 +82,7 @@ ENTITY_PROFILES = {
     "Syngenta Seeds, LLC": {
         "parent": "Syngenta / ChemChina / Sinochem",
         "sec_traceable": True,
-        "ownership": "Sinochem (SASAC) → ChemChina → Syngenta AG → Syngenta Seeds",
+        "ownership": "Sinochem (SASAC) -> ChemChina -> Syngenta AG -> Syngenta Seeds",
         "chain_depth": 6,
         "jurisdictions": ["China", "Switzerland", "Cayman Islands"],
         "state_actor": True,
@@ -90,7 +90,7 @@ ENTITY_PROFILES = {
     "BRAZOS HIGHLAND PROPERTIES, LP": {
         "parent": "Guanghui Group / Sun Guangxin",
         "sec_traceable": False,
-        "ownership": "Sun Guangxin (Xinjiang) → Guanghui Group → Brazos Highland LP",
+        "ownership": "Sun Guangxin (Xinjiang) -> Guanghui Group -> Brazos Highland LP",
         "chain_depth": 3,
         "jurisdictions": ["China (Xinjiang)", "Texas"],
         "state_actor": False,
@@ -98,7 +98,7 @@ ENTITY_PROFILES = {
     "HARVEST TEXAS, LLC": {
         "parent": "Guanghui Group / Sun Guangxin",
         "sec_traceable": False,
-        "ownership": "Sun Guangxin (Xinjiang) → Guanghui Group → Harvest Texas LLC",
+        "ownership": "Sun Guangxin (Xinjiang) -> Guanghui Group -> Harvest Texas LLC",
         "chain_depth": 3,
         "jurisdictions": ["China (Xinjiang)", "Texas"],
         "state_actor": False,
@@ -106,7 +106,7 @@ ENTITY_PROFILES = {
     "CSCEC-US, INC.": {
         "parent": "China State Construction Engineering Corp",
         "sec_traceable": False,
-        "ownership": "SASAC → CSCEC → CSCEC-US Inc",
+        "ownership": "SASAC -> CSCEC -> CSCEC-US Inc",
         "chain_depth": 3,
         "jurisdictions": ["China", "Delaware"],
         "state_actor": True,
@@ -115,9 +115,9 @@ ENTITY_PROFILES = {
 
 
 def main():
-    jurisdiction_csv = "cfius_jurisdiction_analysis.csv"
-    afida_csv = "afida_chinese_2024.csv"
-    output_csv = "complexity_proximity_analysis.csv"
+    jurisdiction_csv = "data/outputs/cfius_jurisdiction_analysis.csv"
+    afida_csv = "data/outputs/afida_chinese_2024.csv"
+    output_csv = "data/outputs/complexity_proximity_analysis.csv"
 
     # Load jurisdiction analysis
     counties = []

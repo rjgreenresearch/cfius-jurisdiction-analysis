@@ -4,10 +4,10 @@ build_cfius_appendix_a.py
 
 Builds the CFIUS Appendix A site database with regime tagging and geocoding.
 Sources:
-  - 85 FR 3166 (Jan 17, 2020) — Original Part 802 Appendix A (Regime 2)
-  - 88 FR 57348 (Aug 23, 2023) — Added 8 installations (Regime 3)
-  - 89 FR 88128 (Nov 7, 2024) — Added 59, moved 8, removed 3 (Regime 4)
-  - eCFR current text (retrieved Apr 4, 2026) — Authoritative current list
+  - 85 FR 3166 (Jan 17, 2020) -- Original Part 802 Appendix A (Regime 2)
+  - 88 FR 57348 (Aug 23, 2023) -- Added 8 installations (Regime 3)
+  - 89 FR 88128 (Nov 7, 2024) -- Added 59, moved 8, removed 3 (Regime 4)
+  - eCFR current text (retrieved Apr 4, 2026) -- Authoritative current list
 
 Output: cfius_appendix_a_all_regimes.csv
 
@@ -16,6 +16,7 @@ Author: Robert J. Green | robert@rjgreenresearch.org
 
 import csv
 import json
+import os
 
 # ===================================================================
 # 2024 ADDITIONS (from 89 FR 88128, effective Dec 9, 2024)
@@ -28,7 +29,7 @@ REGIME4_PART1_NEW = {
     "Cold Bay Regional Radar Site", "Detroit Arsenal",
     "Hawthorne Army Depot", "Indian Mountain Regional Radar Site",
     "Iowa Army Ammunition Plant", "Joint Base Myer-Henderson Hall",
-    "Joint Systems Manufacturing Center—Lima", "Kenai Regional Radar Site",
+    "Joint Systems Manufacturing Center--Lima", "Kenai Regional Radar Site",
     "Kotzebue Regional Radar Site", "Lake City Army Ammunition Plant",
     "Letterkenny Army Depot", "Lisburne Regional Radar Site",
     "Marine Corps Logistics Base Albany", "Marine Corps Logistics Base Barstow",
@@ -79,11 +80,11 @@ REGIME4_REMOVED = {
 # ===================================================================
 
 REGIME3_PART2_NEW = {
-    "Dyess Air Force Base",  # Abilene, TX — B-21 Raider
-    "Edwards Air Force Base",  # Edwards, CA — B-21 testing
-    "Ellsworth Air Force Base",  # Box Elder, SD — B-21
-    "Fort Huachuca",  # Sierra Vista, AZ — intelligence
-    "Grand Forks Air Force Base",  # Grand Forks, ND — Fufeng response
+    "Dyess Air Force Base",  # Abilene, TX -- B-21 Raider
+    "Edwards Air Force Base",  # Edwards, CA -- B-21 testing
+    "Ellsworth Air Force Base",  # Box Elder, SD -- B-21
+    "Fort Huachuca",  # Sierra Vista, AZ -- intelligence
+    "Grand Forks Air Force Base",  # Grand Forks, ND -- Fufeng response
     "Iowa National Guard Joint Force Headquarters",  # Des Moines, IA
     "Laughlin Air Force Base",  # Del Rio, TX
     "Luke Air Force Base",  # Glendale, AZ
@@ -101,7 +102,7 @@ PART1 = [
     ("Andersen Air Force Base", "Yigo, Guam"),
     ("Anniston Army Depot", "Anniston, AL"),
     ("Army Futures Command", "Austin, TX"),
-    ("Army Research Lab—Orlando Simulations and Training Technology Center", "Orlando, FL"),
+    ("Army Research Lab--Orlando Simulations and Training Technology Center", "Orlando, FL"),
     ("Army Research Office", "Durham, NC"),
     ("Barter Island Regional Radar Site", "Barter Island, AK"),
     ("Beale Air Force Base", "Yuba City, CA"),
@@ -162,7 +163,7 @@ PART1 = [
     ("Joint Base Myer-Henderson Hall", "Arlington, VA"),
     ("Joint Base Pearl Harbor-Hickam", "Honolulu, HI"),
     ("Joint Expeditionary Base Little Creek-Fort Story", "Virginia Beach, VA"),
-    ("Joint Systems Manufacturing Center—Lima", "Lima, OH"),
+    ("Joint Systems Manufacturing Center--Lima", "Lima, OH"),
     ("Kaena Point Satellite Tracking Station", "Waianae, HI"),
     ("Kenai Regional Radar Site", "Kenai, AK"),
     ("King Salmon Air Force Station", "King Salmon, AK"),
@@ -202,16 +203,16 @@ PART1 = [
     ("Naval Base Kitsap Bangor", "Silverdale, WA"),
     ("Naval Base Point Loma", "San Diego, CA"),
     ("Naval Base San Diego", "San Diego, CA"),
-    ("Naval Base Ventura County—Port Hueneme Operating Facility", "Port Hueneme, CA"),
+    ("Naval Base Ventura County--Port Hueneme Operating Facility", "Port Hueneme, CA"),
     ("Naval Logistics Support Activity Ketchikan", "Ketchikan, AK"),
     ("Naval Logistics Support Activity LaMoure", "LaMoure, ND"),
     ("Naval Logistics Support Annex Orlando", "Okahumpka, FL"),
     ("Naval Logistics Support Facility Aguada", "Aguada, Puerto Rico"),
     ("Naval Logistics Support Facility Cutler", "Cutler, ME"),
     ("Naval Research Laboratory", "Washington, DC"),
-    ("Naval Research Laboratory—Blossom Point", "Welcome, MD"),
-    ("Naval Research Laboratory—Stennis Space Center", "Hancock County, MS"),
-    ("Naval Research Laboratory—Tilghman", "Tilghman, MD"),
+    ("Naval Research Laboratory--Blossom Point", "Welcome, MD"),
+    ("Naval Research Laboratory--Stennis Space Center", "Hancock County, MS"),
+    ("Naval Research Laboratory--Tilghman", "Tilghman, MD"),
     ("Naval Station Newport", "Newport, RI"),
     ("Naval Station Norfolk", "Norfolk, VA"),
     ("Naval Submarine Base Kings Bay", "Kings Bay, GA"),
@@ -224,7 +225,7 @@ PART1 = [
     ("Naval Support Facility Carderock", "Bethesda, MD"),
     ("Naval Support Facility Dahlgren", "Dahlgren, VA"),
     ("Naval Support Facility Indian Head", "Indian Head, MD"),
-    ("Naval Surface Warfare Center Carderock Division—Acoustic Research Detachment", "Bayview, ID"),
+    ("Naval Surface Warfare Center Carderock Division--Acoustic Research Detachment", "Bayview, ID"),
     ("Naval Weapons Station Seal Beach Detachment Norco", "Norco, CA"),
     ("New Boston Air Station", "New Boston, NH"),
     ("Offutt Air Force Base", "Bellevue, NE"),
@@ -306,8 +307,8 @@ PART2 = [
     ("Naval Air Station Meridian", "Meridian, MS"),
     ("Naval Air Station Patuxent River", "Lexington Park, MD"),
     ("Naval Air Weapons Station China Lake", "Ridgecrest, CA"),
-    ("Naval Base Kitsap—Keyport", "Keyport, WA"),
-    ("Naval Base Ventura County—Point Mugu Operating Facility", "Point Mugu, CA"),
+    ("Naval Base Kitsap--Keyport", "Keyport, WA"),
+    ("Naval Base Ventura County--Point Mugu Operating Facility", "Point Mugu, CA"),
     ("Naval Weapons Systems Training Facility Boardman", "Boardman, OR"),
     ("Nellis Air Force Base", "Las Vegas, NV"),
     ("Nevada Test and Training Range", "Tonopah, NV"),
@@ -372,7 +373,8 @@ def main():
         })
 
     # Write CSV
-    outpath = "/mnt/user-data/outputs/cfius_appendix_a_all_regimes.csv"
+    outpath = "data/outputs/cfius_appendix_a_all_regimes.csv"
+    os.makedirs(os.path.dirname(outpath), exist_ok=True)
     with open(outpath, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=[
             "site_name", "location", "current_part", "threshold_miles",
@@ -405,7 +407,7 @@ def main():
     print(f"\n=== VERIFICATION ===")
     print(f"2024 Part 1 new: {sum(1 for r in rows if r['regime_added']=='2024' and r['current_part']==1)} (expected 40)")
     print(f"2024 Part 2 new: {sum(1 for r in rows if r['regime_added']=='2024' and r['current_part']==2)} (expected 19)")
-    print(f"2024 moved P1→P2: {sum(1 for r in rows if r['regime_added']=='2020_moved_2024')} (expected 8)")
+    print(f"2024 moved P1->P2: {sum(1 for r in rows if r['regime_added']=='2020_moved_2024')} (expected 8)")
     print(f"2023 Part 2 new: {sum(1 for r in rows if r['regime_added']=='2023')} (expected 8)")
     print(f"2020 original: {sum(1 for r in rows if r['regime_added']=='2020')} (expected ~152)")
 
